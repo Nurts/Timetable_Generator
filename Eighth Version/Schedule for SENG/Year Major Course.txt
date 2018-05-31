@@ -1,0 +1,3 @@
+1 Mech 2 60 Mech Math Proga ;
+1 Math 3 30 Materials Math Proga Materials ;
+2 Beng 2 70 H&S Sensors EngMath3 ;

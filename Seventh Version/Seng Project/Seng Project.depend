@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1511543042 source:d:\c++\for engineers\eng project\fifth version\seng project\main program.cpp
+	"secondary.h"
+	<fstream>
+
+1511543192 d:\c++\for engineers\eng project\fifth version\seng project\secondary.h
+	<vector>
+	<iostream>
+
+1511543084 source:d:\c++\for engineers\eng project\fifth version\seng project\secondary.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"secondary.h"
+
+1512579645 source:d:\c++\for engineers\eng project\seventh version\seng project\secondary.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"secondary.h"
+	<ctime>
+
+1511543192 d:\c++\for engineers\eng project\seventh version\seng project\secondary.h
+	<vector>
+	<iostream>
+
+1512575140 source:d:\c++\for engineers\eng project\seventh version\seng project\main program.cpp
+	"secondary.h"
+	<fstream>
+

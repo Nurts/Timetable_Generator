@@ -1,0 +1,928 @@
+
+The time table for group Y1_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_221_Materials_for_Engineers_Lecture (Asma_Perveen) in 3.220
+ 2 PM - 4 PM: BENG_145_Occupal&Environment_Health_and_Safety_Tutorial (Assiya_Yermukhambetova) in 3.220
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: BENG_146_Programming_for_Engineers_Tutorial (Meruyert_Temirbekova) in 3.220
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_117_Engineering_Mechanics_Tutorial (Talgat_Urtambayev) in 3.220
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_146_Programming_for_Engineers_Lecture (Vipin_Kizheppatt) in 3.220
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_145_Occupal&Environment_Health_and_Safety_Lecture (Ming_Yang) in 3.220
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_117_Engineering_Mechanics_Lecture (Anatoli_Vakhguelt) in 3.220
+
+Friday
+9 AM - 11 AM: BENG_124_Engineering_Mathematics_1_Tutorial (Damira_Pernebayeva) in 3.220
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_221_Materials_for_Engineers_Tutorial (Aigerim_Mashekova) in 3.220
+ 4 PM - 6 PM: BENG_124_Engineering_Mathematics_1_Lecture (Vasileios_Zarikas) in 3.220
+
+The time table for group Y1_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_117_Engineering_Mechanics_Tutorial (Talgat_Urtambayev) in 3.221
+ 2 PM - 4 PM: BENG_124_Engineering_Mathematics_1_Tutorial (Damira_Pernebayeva) in 3.221
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: BENG_146_Programming_for_Engineers_Tutorial (Daniyar_Bakir) in 3.221
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_221_Materials_for_Engineers_Lecture (Asma_Perveen) in 3.221
+11 AM - 1 PM: BENG_221_Materials_for_Engineers_Tutorial (Aigerim_Mashekova) in 3.220
+ 2 PM - 4 PM: BENG_145_Occupal&Environment_Health_and_Safety_Lecture (Ming_Yang) in 3.221
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_146_Programming_for_Engineers_Lecture (Vipin_Kizheppatt) in 3.221
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_124_Engineering_Mathematics_1_Lecture (Vasileios_Zarikas) in 3.221
+
+Friday
+9 AM - 11 AM: BENG_145_Occupal&Environment_Health_and_Safety_Tutorial (Assiya_Yermukhambetova) in 3.221
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_117_Engineering_Mechanics_Lecture (Anatoli_Vakhguelt) in 3.221
+
+The time table for group Y1_G3
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_117_Engineering_Mechanics_Tutorial (Mert_Guney) in 3.223
+ 2 PM - 4 PM: BENG_146_Programming_for_Engineers_Tutorial (Meruyert_Temirbekova) in 3.223
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: BENG_145_Occupal&Environment_Health_and_Safety_Tutorial (Assiya_Yermukhambetova) in 3.223
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_124_Engineering_Mathematics_1_Tutorial (Damira_Pernebayeva) in 3.223
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_124_Engineering_Mathematics_1_Lecture (Vasileios_Zarikas) in 3.223
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM: BENG_221_Materials_for_Engineers_Tutorial (Aigerim_Mashekova) in 3.220
+11 AM - 1 PM: BENG_117_Engineering_Mechanics_Lecture (Anatoli_Vakhguelt) in 3.223
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_145_Occupal&Environment_Health_and_Safety_Lecture (Ming_Yang) in 3.223
+
+Friday
+9 AM - 11 AM: BENG_221_Materials_for_Engineers_Lecture (Asma_Perveen) in 3.223
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_146_Programming_for_Engineers_Lecture (Vipin_Kizheppatt) in 3.223
+
+The time table for group Y1_G4
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_124_Engineering_Mathematics_1_Tutorial (Damira_Pernebayeva) in 3.224
+ 2 PM - 4 PM: BENG_221_Materials_for_Engineers_Lecture (Asma_Perveen) in 3.224
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: BENG_221_Materials_for_Engineers_Tutorial (Aigerim_Mashekova) in 3.224
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_117_Engineering_Mechanics_Tutorial (Mert_Guney) in 3.224
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_117_Engineering_Mechanics_Lecture (Anatoli_Vakhguelt) in 3.224
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_124_Engineering_Mathematics_1_Lecture (Vasileios_Zarikas) in 3.224
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_146_Programming_for_Engineers_Lecture (Vipin_Kizheppatt) in 3.224
+
+Friday
+9 AM - 11 AM: BENG_146_Programming_for_Engineers_Tutorial (Meruyert_Temirbekova) in 3.224
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_145_Occupal&Environment_Health_and_Safety_Tutorial (Assiya_Yermukhambetova) in 3.221
+ 4 PM - 6 PM: BENG_145_Occupal&Environment_Health_and_Safety_Lecture (Ming_Yang) in 3.224
+
+The time table for group Y1_G5
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_117_Engineering_Mechanics_Lecture (Anatoli_Vakhguelt) in 3.302
+ 2 PM - 4 PM: BENG_146_Programming_for_Engineers_Tutorial (Daniyar_Bakir) in 3.302
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM:
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_124_Engineering_Mathematics_1_Lecture (Vasileios_Zarikas) in 3.302
+11 AM - 1 PM: BENG_145_Occupal&Environment_Health_and_Safety_Tutorial (Assiya_Yermukhambetova) in 3.221
+ 2 PM - 4 PM: BENG_124_Engineering_Mathematics_1_Tutorial (Damira_Pernebayeva) in 3.302
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_117_Engineering_Mechanics_Tutorial (Talgat_Urtambayev) in 3.302
+ 2 PM - 4 PM: BENG_221_Materials_for_Engineers_Tutorial (Aigerim_Mashekova) in 3.220
+ 4 PM - 6 PM: BENG_146_Programming_for_Engineers_Lecture (Aresh_Dadlani) in 3.302
+
+Friday
+9 AM - 11 AM: BENG_145_Occupal&Environment_Health_and_Safety_Lecture (Ming_Yang) in 3.302
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_221_Materials_for_Engineers_Lecture (Asma_Perveen) in 3.302
+
+The time table for group Y2_C_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_302_Civil_Engineering_Materials_Lecture (Chang_Shon) in 3.132
+ 2 PM - 4 PM: ECE_216_Civil_Engineering_CAD_Tutorial (Deuckhang_Lee) in 3.132
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECE_217_Structural_Analysis_I_Tutorial (Zhandos_Kerimkulov) in 3.132
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_228_Engineering_Mathematics_III_Tutorial (Alima_Tazabekova) in 3.132
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_217_Structural_Analysis_I_Lecture (Shazim_Memon) in 3.132
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_216_Civil_Engineering_CAD_Lecture (Saule_Tulebekova) in 3.132
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_228_Engineering_Mathematics_III_Lecture (Desmond_Adair) in 3.132
+
+Friday
+9 AM - 11 AM: ECE_215_Surveying_Tutorial (Zhandos_Kerimkulov) in 3.132
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_302_Civil_Engineering_Materials_Tutorial (Lyazzat_Saliyeva) in 3.132
+ 4 PM - 6 PM: ECE_215_Surveying_Lecture (Shazim_Memon) in 3.132
+
+The time table for group Y2_C_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_228_Engineering_Mathematics_III_Tutorial (Alima_Tazabekova) in 3.143
+ 2 PM - 4 PM: ECE_215_Surveying_Tutorial (Zhandos_Kerimkulov) in 3.143
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECE_302_Civil_Engineering_Materials_Tutorial (Lyazzat_Saliyeva) in 3.143
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: ECE_302_Civil_Engineering_Materials_Lecture (Chang_Shon) in 3.143
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_216_Civil_Engineering_CAD_Lecture (Saule_Tulebekova) in 3.143
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_217_Structural_Analysis_I_Lecture (Shazim_Memon) in 3.143
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECE_215_Surveying_Lecture (Shazim_Memon) in 3.143
+
+Friday
+9 AM - 11 AM: ECE_216_Civil_Engineering_CAD_Tutorial (Deuckhang_Lee) in 3.143
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_217_Structural_Analysis_I_Tutorial (Zhandos_Kerimkulov) in 3.143
+ 4 PM - 6 PM: BENG_228_Engineering_Mathematics_III_Lecture (Desmond_Adair) in 3.143
+
+The time table for group Y2_Ch_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: ECHE_319_Chemical_Engineering_Thermodynamics_Lecture (Dhawal_Shah) in 3.217
+ 2 PM - 4 PM: ECHE_126_Introduction_to_Chemical_Engineering_Tutorial (Ayana_Muzdubayeva) in 3.217
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECHE_222_Chemistry_1_Tutorial (Aigerim_Baimyrza) in 3.217
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_228_Engineering_Mathematics_III_Tutorial (Alima_Tazabekova) in 3.217
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECHE_222_Chemistry_1_Lecture (Zhumabay_Bakenov) in 3.217
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_228_Engineering_Mathematics_III_Lecture (Desmond_Adair) in 3.217
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EME_254_Mechanics_of_Materials_Lecture (Didier_Talamona) in 3.217
+
+Friday
+9 AM - 11 AM: EME_254_Mechanics_of_Materials_Tutorial (Tair_Askar) in 3.217
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECHE_319_Chemical_Engineering_Thermodynamics_Tutorial (Roza_Demeisinova) in 3.217
+ 4 PM - 6 PM: ECHE_126_Introduction_to_Chemical_Engineering_Lecture (Moulay-Rachid_Babaa) in 3.217
+
+The time table for group Y2_Ch_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_228_Engineering_Mathematics_III_Tutorial (Alima_Tazabekova) in 3.227
+ 2 PM - 4 PM: ECHE_222_Chemistry_1_Tutorial (Aigerim_Baimyrza) in 3.227
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECHE_126_Introduction_to_Chemical_Engineering_Tutorial (Ayana_Muzdubayeva) in 3.227
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: ECHE_319_Chemical_Engineering_Thermodynamics_Lecture (Dhawal_Shah) in 3.227
+11 AM - 1 PM: ECHE_319_Chemical_Engineering_Thermodynamics_Tutorial (Roza_Demeisinova) in 3.132
+ 2 PM - 4 PM: BENG_228_Engineering_Mathematics_III_Lecture (Desmond_Adair) in 3.227
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: ECHE_222_Chemistry_1_Lecture (Zhumabay_Bakenov) in 3.227
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECHE_126_Introduction_to_Chemical_Engineering_Lecture (Moulay-Rachid_Babaa) in 3.227
+
+Friday
+9 AM - 11 AM: EME_254_Mechanics_of_Materials_Tutorial (Serik_Khairaliyev) in 3.227
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EME_254_Mechanics_of_Materials_Lecture (Didier_Talamona) in 3.227
+
+The time table for group Y2_E_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_228_Engineering_Mathematics_III_Lecture (Desmond_Adair) in 3.303
+ 2 PM - 4 PM: EEE_212_Signals_and_Systems_Tutorial (Beibit_Abdikenov) in 3.303
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: EEE_251_Electronic_Engineering_Design_Principles_Tutorial (Refik_Kizilirmak) in 3.302
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_215_Sensors_and_Actuators_Tutorial (Nazim_Mir-Nasiri) in 3.303
+11 AM - 1 PM:
+ 2 PM - 4 PM: EEE_250_Microelectronic_Devicens_and_Circuits_Lecture (Alex_James) in 3.303
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: EEE_251_Electronic_Engineering_Design_Principles_Lecture (Kamilya_Smagulova) in 3.303
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_215_Sensors_and_Actuators_Lecture (Kassen_Dautov) in 3.303
+
+Friday
+9 AM - 11 AM: BENG_228_Engineering_Mathematics_III_Tutorial (Alima_Tazabekova) in 3.303
+11 AM - 1 PM:
+ 2 PM - 4 PM: EEE_250_Microelectronic_Devicens_and_Circuits_Tutorial (Irina_Dolzhikova) in 3.223
+ 4 PM - 6 PM: EEE_212_Signals_and_Systems_Lecture (Behrouz_Maham) in 3.303
+
+The time table for group Y2_E_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_215_Sensors_and_Actuators_Tutorial (Nazim_Mir-Nasiri) in 3.309
+ 2 PM - 4 PM: EEE_251_Electronic_Engineering_Design_Principles_Tutorial (Refik_Kizilirmak) in 3.309
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: EEE_212_Signals_and_Systems_Tutorial (Beibit_Abdikenov) in 3.303
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_228_Engineering_Mathematics_III_Lecture (Desmond_Adair) in 3.309
+11 AM - 1 PM: EEE_250_Microelectronic_Devicens_and_Circuits_Tutorial (Irina_Dolzhikova) in 3.143
+ 2 PM - 4 PM: EEE_251_Electronic_Engineering_Design_Principles_Lecture (Kamilya_Smagulova) in 3.309
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: EEE_250_Microelectronic_Devicens_and_Circuits_Lecture (Alex_James) in 3.309
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EEE_212_Signals_and_Systems_Lecture (Behrouz_Maham) in 3.309
+
+Friday
+9 AM - 11 AM: BENG_228_Engineering_Mathematics_III_Tutorial (Alima_Tazabekova) in 3.309
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_215_Sensors_and_Actuators_Lecture (Kassen_Dautov) in 3.309
+
+The time table for group Y2_M_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: EME_253_Computer_Aided_Engineering_Tutorial (Aldiyar_Kakimzhan) in 3.316
+ 2 PM - 4 PM: BENG_215_Sensors_and_Actuators_Tutorial (Nazim_Mir-Nasiri) in 3.316
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: BENG_228_Engineering_Mathematics_III_Tutorial (Alima_Tazabekova) in 3.309
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EME_254_Mechanics_of_Materials_Tutorial (Tair_Askar) in 3.316
+11 AM - 1 PM:
+ 2 PM - 4 PM: EME_254_Mechanics_of_Materials_Lecture (Didier_Talamona) in 3.316
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_215_Sensors_and_Actuators_Lecture (Kassen_Dautov) in 3.316
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EME_253_Computer_Aided_Engineering_Lecture (Yerkin_Abdildin) in 3.316
+
+Friday
+9 AM - 11 AM: BENG_228_Engineering_Mathematics_III_Lecture (Desmond_Adair) in 3.316
+11 AM - 1 PM:
+ 2 PM - 4 PM: EME_262_Machine_Dynamics_I_Tutorial (Evagoras_Xydas) in 3.224
+ 4 PM - 6 PM: EME_262_Machine_Dynamics_I_Lecture (Evagoras_Xydas) in 3.316
+
+The time table for group Y2_M_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: EME_254_Mechanics_of_Materials_Tutorial (Tair_Askar) in 3.317
+ 2 PM - 4 PM: BENG_228_Engineering_Mathematics_III_Lecture (Desmond_Adair) in 3.317
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: BENG_228_Engineering_Mathematics_III_Tutorial (Alima_Tazabekova) in 3.316
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EME_253_Computer_Aided_Engineering_Tutorial (Aldiyar_Kakimzhan) in 3.317
+11 AM - 1 PM: EME_262_Machine_Dynamics_I_Tutorial (Evagoras_Xydas) in 3.217
+ 2 PM - 4 PM: BENG_215_Sensors_and_Actuators_Lecture (Kassen_Dautov) in 3.317
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: EME_254_Mechanics_of_Materials_Lecture (Didier_Talamona) in 3.317
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EME_262_Machine_Dynamics_I_Lecture (Evagoras_Xydas) in 3.317
+
+Friday
+9 AM - 11 AM: BENG_215_Sensors_and_Actuators_Tutorial (Nazim_Mir-Nasiri) in 3.317
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EME_253_Computer_Aided_Engineering_Lecture (Yerkin_Abdildin) in 3.317
+
+The time table for group Y3_C_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_405_Environmental_Engineering_Lecture (Dina_Kaskina) in 3.322
+ 2 PM - 4 PM: ECE_318_Structural_Design_Concrete_Tutorial (Saule_Tulebekova) in 3.322
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECE_404_Construction_Technologies_and_Processes_Tutorial (Sung_Moon) in 3.317
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 3.322
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_404_Construction_Technologies_and_Processes_Lecture (Hau_Leung) in 3.322
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_318_Structural_Design_Concrete_Lecture (Dichuan_Zhang) in 3.322
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.322
+
+Friday
+9 AM - 11 AM: ECE_307_Engineering_Geology_and_Rock_Mechanics_Tutorial (Lyazzat_Saliyeva) in 3.322
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_405_Environmental_Engineering_Tutorial (Mert_Guney) in 3.227
+ 4 PM - 6 PM: ECE_307_Engineering_Geology_and_Rock_Mechanics_Lecture (Minh_Nguyen) in 3.322
+
+The time table for group Y3_C_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 3.227
+ 2 PM - 4 PM: ECE_307_Engineering_Geology_and_Rock_Mechanics_Tutorial (Lyazzat_Saliyeva) in 3.227
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECE_404_Construction_Technologies_and_Processes_Tutorial (Deuckhang_Lee) in 3.322
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: ECE_405_Environmental_Engineering_Lecture (Dina_Kaskina) in 3.227
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_318_Structural_Design_Concrete_Lecture (Dichuan_Zhang) in 3.227
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_404_Construction_Technologies_and_Processes_Lecture (Hau_Leung) in 3.227
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECE_307_Engineering_Geology_and_Rock_Mechanics_Lecture (Minh_Nguyen) in 3.227
+
+Friday
+9 AM - 11 AM: ECE_318_Structural_Design_Concrete_Tutorial (Saule_Tulebekova) in 3.227
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_405_Environmental_Engineering_Tutorial (Dina_Kaskina) in 3.302
+ 4 PM - 6 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.227
+
+The time table for group Y3_Ch_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: ECHE_481_Chemical_Reaction_Engineering_Lecture (Stavros_Poulopoulos) in 3.407
+ 2 PM - 4 PM: ECHE_369_Transport_Phenomena_II_Tutorial (Sergey_Spotar) in 3.407
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECHE_385_Research_Practice_Tutorial (Roza_Demeisinova) in 3.227
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_405_Project_Management_Tutorial (Ferhat_Karaca) in 3.407
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECHE_385_Research_Practice_Lecture (Jorge_Ona_Ruales) in 3.407
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.407
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECHE_333_Separation_Processes_I_Lecture (Vasileios_Inglezakis) in 3.407
+
+Friday
+9 AM - 11 AM: ECHE_333_Separation_Processes_I_Tutorial (Almira_Yagofarova) in 3.407
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECHE_481_Chemical_Reaction_Engineering_Tutorial (Gulnur_Kalimuldina) in 3.303
+ 4 PM - 6 PM: ECHE_369_Transport_Phenomena_II_Lecture (Sayara_Saliyeva) in 3.407
+
+The time table for group Y3_Ch_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_405_Project_Management_Tutorial (Ferhat_Karaca) in 3.415
+ 2 PM - 4 PM: ECHE_333_Separation_Processes_I_Tutorial (Almira_Yagofarova) in 3.415
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECHE_481_Chemical_Reaction_Engineering_Tutorial (Gulnur_Kalimuldina) in 3.407
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: ECHE_481_Chemical_Reaction_Engineering_Lecture (Stavros_Poulopoulos) in 3.415
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.415
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: ECHE_385_Research_Practice_Lecture (Jorge_Ona_Ruales) in 3.415
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECHE_369_Transport_Phenomena_II_Lecture (Sayara_Saliyeva) in 3.415
+
+Friday
+9 AM - 11 AM: ECHE_369_Transport_Phenomena_II_Tutorial (Sergey_Spotar) in 3.415
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECHE_385_Research_Practice_Tutorial (Roza_Demeisinova) in 3.309
+ 4 PM - 6 PM: ECHE_333_Separation_Processes_I_Lecture (Vasileios_Inglezakis) in 3.415
+
+The time table for group Y3_E_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.416
+ 2 PM - 4 PM: EEE_342_Electromagnetics_Tutorial (Kanat_Turebekov) in 3.416
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: EEE_345_Power_Electronics_Tutorial (Yerden_Kypshakpayev) in 3.415
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EEE_384_Digital_integrated_circuits_design_Lecture (Alex_James) in 3.416
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 3.416
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: EEE_345_Power_Electronics_Lecture (Alexander_Ruderman) in 3.416
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EEE_238_Digital_Signal_and_Image_Processing_Lecture (Aigerim_Sametkhanova) in 3.416
+
+Friday
+9 AM - 11 AM: EEE_238_Digital_Signal_and_Image_Processing_Tutorial (Muhammad_Akhtar) in 3.416
+11 AM - 1 PM:
+ 2 PM - 4 PM: EEE_384_Digital_integrated_circuits_design_Tutorial (Vipin_Kizheppatt) in 3.316
+ 4 PM - 6 PM: EEE_342_Electromagnetics_Lecture (Daniele_Tosi) in 3.416
+
+The time table for group Y3_E_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: EEE_384_Digital_integrated_circuits_design_Lecture (Alex_James) in 6.112
+ 2 PM - 4 PM: EEE_238_Digital_Signal_and_Image_Processing_Tutorial (Muhammad_Akhtar) in 6.112
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: EEE_384_Digital_integrated_circuits_design_Tutorial (Vipin_Kizheppatt) in 3.416
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: BENG_405_Project_Management_Lecture (Md_Hossain) in 6.112
+11 AM - 1 PM:
+ 2 PM - 4 PM: EEE_345_Power_Electronics_Lecture (Alexander_Ruderman) in 6.112
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 6.112
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EEE_342_Electromagnetics_Lecture (Daniele_Tosi) in 6.112
+
+Friday
+9 AM - 11 AM: EEE_342_Electromagnetics_Tutorial (Kanat_Turebekov) in 6.112
+11 AM - 1 PM:
+ 2 PM - 4 PM: EEE_345_Power_Electronics_Tutorial (Yerden_Kypshakpayev) in 3.317
+ 4 PM - 6 PM: EEE_238_Digital_Signal_and_Image_Processing_Lecture (Aigerim_Sametkhanova) in 6.112
+
+The time table for group Y3_M_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: EME_463_Machine_Dynamics_II_Lecture (Didier_Talamona) in 6.154
+ 2 PM - 4 PM: EME_361_Machine_Design_Tutorial (Christos_Spitas) in 6.154
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 6.112
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EME_358_Heat_Transfer_Tutorial (Maxime_Mussard) in 6.154
+11 AM - 1 PM:
+ 2 PM - 4 PM: EME_354_Advanced_Control_Systems_Tutorial (Md_Ali) in 6.154
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: EME_361_Machine_Design_Lecture (Christos_Spitas) in 6.154
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EME_354_Advanced_Control_Systems_Lecture (Md_Ali) in 6.154
+
+Friday
+9 AM - 11 AM: BENG_405_Project_Management_Lecture (Md_Hossain) in 6.154
+11 AM - 1 PM:
+ 2 PM - 4 PM: EME_463_Machine_Dynamics_II_Tutorial (Tair_Askar) in 3.322
+ 4 PM - 6 PM: EME_358_Heat_Transfer_Lecture (Maxim_Lu) in 6.154
+
+The time table for group Y3_M_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: EME_358_Heat_Transfer_Tutorial (Maxime_Mussard) in 6.307
+ 2 PM - 4 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 6.307
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: BENG_405_Project_Management_Tutorial (Ferhat_Karaca) in 6.154
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EME_463_Machine_Dynamics_II_Lecture (Didier_Talamona) in 6.307
+11 AM - 1 PM: EME_463_Machine_Dynamics_II_Tutorial (Tair_Askar) in 3.223
+ 2 PM - 4 PM: EME_361_Machine_Design_Lecture (Christos_Spitas) in 6.307
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: EME_354_Advanced_Control_Systems_Tutorial (Md_Ali) in 6.307
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EME_358_Heat_Transfer_Lecture (Maxim_Lu) in 6.307
+
+Friday
+9 AM - 11 AM: EME_361_Machine_Design_Tutorial (Christos_Spitas) in 6.307
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EME_354_Advanced_Control_Systems_Lecture (Md_Ali) in 6.307
+
+The time table for group Y4_C_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_404_Construction_Technologies_and_Processes_Tutorial (Sung_Moon) in 6.327
+ 2 PM - 4 PM: ECE_405_Environmental_Engineering_Tutorial (Mert_Guney) in 6.327
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: BENG_405_Project_Management_Lecture (Md_Hossain) in 6.307
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: ECE_401_Capstone_Project_1_Tutorial (Lyazzat_Saliyeva) in 6.327
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_416_Highway_Engineering_Lecture (Chang_Shon) in 6.327
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_401_Capstone_Project_1_Lecture (Minh_Nguyen) in 6.327
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECE_404_Construction_Technologies_and_Processes_Lecture (Hau_Leung) in 6.327
+
+Friday
+9 AM - 11 AM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 6.327
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECE_416_Highway_Engineering_Tutorial (Lyazzat_Saliyeva) in 3.227
+ 4 PM - 6 PM: ECE_405_Environmental_Engineering_Lecture (Dina_Kaskina) in 6.327
+
+The time table for group Y4_C_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_404_Construction_Technologies_and_Processes_Tutorial (Deuckhang_Lee) in 6.407
+ 2 PM - 4 PM: ECE_405_Environmental_Engineering_Tutorial (Dina_Kaskina) in 6.407
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECE_401_Capstone_Project_1_Tutorial (Lyazzat_Saliyeva) in 6.327
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_416_Highway_Engineering_Tutorial (Lyazzat_Saliyeva) in 3.224
+ 2 PM - 4 PM: ECE_401_Capstone_Project_1_Lecture (Minh_Nguyen) in 6.407
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: ECE_416_Highway_Engineering_Lecture (Chang_Shon) in 6.407
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECE_405_Environmental_Engineering_Lecture (Dina_Kaskina) in 6.407
+
+Friday
+9 AM - 11 AM: BENG_405_Project_Management_Tutorial (Ferhat_Karaca) in 6.407
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.407
+ 4 PM - 6 PM: ECE_404_Construction_Technologies_and_Processes_Lecture (Hau_Leung) in 6.407
+
+The time table for group Y4_Ch_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: ECHE_418_Capstone_Project_1_Tutorial (Bagdagul_Dauyeshova) in 6.408
+ 2 PM - 4 PM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 6.408
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECHE_484_Multi_Phase_Flows_Tutorial (Sergey_Spotar) in 6.407
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: ECHE_482_Computational_Methods_in_Chemical_Engineering_II_Tutorial (Aknur_Baibatyrova) in 6.407
+11 AM - 1 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.227
+ 2 PM - 4 PM: ECHE_419_Advanced_Process_Simulation_Lecture (Torkmahalleh_Amouei) in 6.408
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: ECHE_484_Multi_Phase_Flows_Lecture (Sayara_Saliyeva) in 6.408
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECHE_418_Capstone_Project_1_Lecture (Moulay-Rachid_Babaa) in 6.408
+
+Friday
+9 AM - 11 AM: ECHE_419_Advanced_Process_Simulation_Tutorial (Aknur_Baibatyrova) in 6.408
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECHE_482_Computational_Methods_in_Chemical_Engineering_II_Lecture (Boris_Golman) in 6.408
+
+The time table for group Y4_Ch_G2
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: ECHE_482_Computational_Methods_in_Chemical_Engineering_II_Tutorial (Aknur_Baibatyrova) in 6.422
+ 2 PM - 4 PM: BENG_405_Project_Management_Tutorial (Ferhat_Karaca) in 6.422
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: ECHE_419_Advanced_Process_Simulation_Tutorial (Aknur_Baibatyrova) in 6.408
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: ECHE_418_Capstone_Project_1_Tutorial (Bagdagul_Dauyeshova) in 6.408
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECHE_484_Multi_Phase_Flows_Lecture (Sayara_Saliyeva) in 6.422
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.132
+11 AM - 1 PM: ECHE_419_Advanced_Process_Simulation_Lecture (Torkmahalleh_Amouei) in 6.422
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: ECHE_482_Computational_Methods_in_Chemical_Engineering_II_Lecture (Boris_Golman) in 6.422
+
+Friday
+9 AM - 11 AM:
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECHE_484_Multi_Phase_Flows_Tutorial (Sergey_Spotar) in 3.415
+ 4 PM - 6 PM: ECHE_418_Capstone_Project_1_Lecture (Moulay-Rachid_Babaa) in 6.422
+
+The time table for group Y4_E_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: EEE_437_Capstone_Project_1_Tutorial (Kamilla_Aliakhmet) in 6.427
+ 2 PM - 4 PM: EEE_482_Mobile_Communications_Tutorial (Nazerke_Rakhymbayeva) in 6.427
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM:
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EEE_448_Power_Transmission_and_Distribution_plants_Tutorial (Mehdi_Bagheri) in 6.422
+11 AM - 1 PM: ECHE_126_Introduction_to_Chemical_Engineering_Tutorial (Ayana_Muzdubayeva) in 3.302
+ 2 PM - 4 PM: EEE_482_Mobile_Communications_Lecture (Refik_Kizilirmak) in 6.427
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: EEE_452_Power_Systems_Protection_Lecture (Hema_Satya) in 6.427
+ 2 PM - 4 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.132
+ 4 PM - 6 PM: EEE_437_Capstone_Project_1_Lecture (Alex_James) in 6.427
+
+Friday
+9 AM - 11 AM: EEE_452_Power_Systems_Protection_Tutorial (Botagoz_Mirzagalikova) in 6.422
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 3.416
+ 4 PM - 6 PM: EEE_448_Power_Transmission_and_Distribution_plants_Lecture (Svyatoslav_Nezhivenko) in 6.427
+
+The time table for group Y4_E_G2
+
+Monday
+9 AM - 11 AM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.132
+11 AM - 1 PM: EEE_482_Mobile_Communications_Lecture (Refik_Kizilirmak) in 6.522
+ 2 PM - 4 PM: EEE_452_Power_Systems_Protection_Tutorial (Botagoz_Mirzagalikova) in 6.522
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM: EEE_482_Mobile_Communications_Tutorial (Nazerke_Rakhymbayeva) in 6.422
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EEE_437_Capstone_Project_1_Tutorial (Kamilla_Aliakhmet) in 6.427
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_405_Project_Management_Tutorial (Ferhat_Karaca) in 6.522
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: EEE_452_Power_Systems_Protection_Lecture (Kumar_Nunna) in 6.522
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EEE_448_Power_Transmission_and_Distribution_plants_Lecture (Svyatoslav_Nezhivenko) in 6.522
+
+Friday
+9 AM - 11 AM: EEE_448_Power_Transmission_and_Distribution_plants_Tutorial (Mehdi_Bagheri) in 6.427
+11 AM - 1 PM:
+ 2 PM - 4 PM: ECHE_126_Introduction_to_Chemical_Engineering_Tutorial (Ayana_Muzdubayeva) in 6.112
+ 4 PM - 6 PM: EEE_437_Capstone_Project_1_Lecture (Alex_James) in 6.522
+
+The time table for group Y4_M_G1
+
+Monday
+9 AM - 11 AM:
+11 AM - 1 PM: EME_451_Capstone_project_1_Lecture (Christos_Spitas) in 7.322
+ 2 PM - 4 PM: EME_456_Feasibility_Analysis_of_Clean_Energy_Technologies_Tutorial (Ulanbe_Auyeskhan) in 7.322
+ 4 PM - 6 PM:
+
+Tuesday
+9 AM - 11 AM:
+11 AM - 1 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.132
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EME_413_Computer_Aided_Geometric_Design_Tutorial (Konstantinos_Kostas) in 6.522
+11 AM - 1 PM:
+ 2 PM - 4 PM: EME_412_Heating_Ventilating_and_Air_Conditioning_Tutorial (Aigerim_Mashekova) in 7.322
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM:
+11 AM - 1 PM: EME_456_Feasibility_Analysis_of_Clean_Energy_Technologies_Lecture (Luis_Rojas) in 7.322
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: EME_412_Heating_Ventilating_and_Air_Conditioning_Lecture (Soo_Teh) in 7.322
+
+Friday
+9 AM - 11 AM: EME_451_Capstone_project_1_Tutorial (Talgat_Urtambayev) in 6.522
+11 AM - 1 PM:
+ 2 PM - 4 PM: BENG_405_Project_Management_Tutorial (Ferhat_Karaca) in 6.154
+ 4 PM - 6 PM: EME_413_Computer_Aided_Geometric_Design_Lecture (Konstantinos_Kostas) in 7.322
+
+The time table for group Y4_M_G2
+
+Monday
+9 AM - 11 AM: EME_451_Capstone_project_1_Tutorial (Talgat_Urtambayev) in 3.143
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.132
+
+Tuesday
+9 AM - 11 AM: EME_451_Capstone_project_1_Lecture (Christos_Spitas) in 6.427
+11 AM - 1 PM: EME_456_Feasibility_Analysis_of_Clean_Energy_Technologies_Tutorial (Ulanbe_Auyeskhan) in 3.143
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EME_412_Heating_Ventilating_and_Air_Conditioning_Lecture (Soo_Teh) in 7.322
+11 AM - 1 PM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 3.303
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM: EME_412_Heating_Ventilating_and_Air_Conditioning_Tutorial (Aigerim_Mashekova) in 3.143
+11 AM - 1 PM:
+ 2 PM - 4 PM: EME_413_Computer_Aided_Geometric_Design_Tutorial (Konstantinos_Kostas) in 3.143
+ 4 PM - 6 PM:
+
+Friday
+9 AM - 11 AM: EME_413_Computer_Aided_Geometric_Design_Lecture (Konstantinos_Kostas) in 7.322
+11 AM - 1 PM:
+ 2 PM - 4 PM: EME_456_Feasibility_Analysis_of_Clean_Energy_Technologies_Lecture (Luis_Rojas) in 6.307
+ 4 PM - 6 PM:

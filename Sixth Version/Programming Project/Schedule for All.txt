@@ -1,0 +1,60 @@
+The Schedule for Group Y1Chem
+                                           MONDAY|                                 TUESDAY|                               WEDNESDAY|                                THURSDAY|                                  FRIDAY|
+ 9 - 10 :             Mech by Tolik in Green_Hall|                                        |                    Math by Vaska in USA|                                        |                                        |
+10 - 11 :                                        |                Materials by Asma in USA|                                        |                                        |                                        |
+11 - 12 :                                        |                                        |                   Proga by Vipin in USA|                                        |                   Proga by Vipin in USA|
+12 - 13 :               Materials by Asma in Hell|                    Mech by Tolik in USA|                 Sensors by Nazim in USA|                                        |                                        |
+14 - 15 :                                        |             Math by Vaska in Green_Hall|                                        |                H&S by Ming in Blue_Hall|                                        |
+15 - 16 :                                        |               Materials by Asma in Hell|                                        |                                        |                                        |
+16 - 17 :                Materials by Asma in USA|                 Sensors by Nazim in USA|                   Proga by Vipin in USA|                                        |                                        |
+17 - 18 :                                        |                                        |                                        |                      H&S by Ming in USA|                    Mech by Tolik in USA|
+The Schedule for Group Y2Elec
+                                           MONDAY|                                 TUESDAY|                               WEDNESDAY|                                THURSDAY|                                  FRIDAY|
+ 9 - 10 :                                        |                   Proga by Vipin in USA|             Mech by Tolik in Green_Hall|                                        |                                        |
+10 - 11 :                                        |                                        |                                        |                                        |                                        |
+11 - 12 :               Materials by Asma in Hell|                H&S by Ming in Blue_Hall|          Materials by Asma in Blue_Hall|                                        |             Mech by Tolik in Green_Hall|
+12 - 13 :                                        |               Materials by Asma in Hell|                                        |                H&S by Ming in Blue_Hall|          Materials by Asma in Blue_Hall|
+14 - 15 :                                        |                  Proga by Vipin in Hell|                                        |                                        |                 Sensors by Nazim in USA|
+15 - 16 :                   Proga by Vipin in USA|                                        |                    Math by Vaska in USA|                                        |                    Mech by Tolik in USA|
+16 - 17 :                                        |                                        |              Math by Vaska in Blue_Hall|                                        |                                        |
+17 - 18 :                                        |                 Sensors by Nazim in USA|                                        |                                        |                                        |
+The Schedule for Group Y3Mech
+                                           MONDAY|                                 TUESDAY|                               WEDNESDAY|                                THURSDAY|                                  FRIDAY|
+ 9 - 10 :                                        |                                        |                                        |                    Math by Vaska in Lab|                                        |
+10 - 11 :                                        |                                        |                      H&S by Ming in Lab|                                        |                                        |
+11 - 12 :                                        |                 Sensors by Nazim in USA|                    Mech by Tolik in Lab|               Materials by Asma in Hell|                                        |
+12 - 13 :                                        |                                        |                                        |                   Proga by Vipin in Lab|                                        |
+14 - 15 :                                        |                 Sensors by Nazim in USA|                   Proga by Vipin in Lab|                Materials by Asma in Lab|                   Mech by Tolik in Hell|
+15 - 16 :                                        |                                        |                                        |                                        |                                        |
+16 - 17 :                      H&S by Ming in Lab|                Materials by Asma in Lab|                                        |                                        |                Materials by Asma in Lab|
+17 - 18 :                                        |                   Mech by Tolik in Hell|                   Proga by Vipin in Lab|                                        |                    Math by Vaska in Lab|
+The Schedule for Group Y1Civil
+                                           MONDAY|                                 TUESDAY|                               WEDNESDAY|                                THURSDAY|                                  FRIDAY|
+ 9 - 10 :               Materials by Asma in Hell|                                        |                  Proga by Vipin in Hell|                                        |                                        |
+10 - 11 :                      H&S by Ming in USA|                                        |                                        |                Materials by Asma in USA|                                        |
+11 - 12 :                                        |                                        |                                        |             Mech by Tolik in Green_Hall|          Materials by Asma in Blue_Hall|
+12 - 13 :                                        |                                        |                                        |                                        |                                        |
+14 - 15 :                                        |          Materials by Asma in Blue_Hall|                    Math by Vaska in USA|                                        |            Proga by Vipin in Green_Hall|
+15 - 16 :              Mech by Tolik in Blue_Hall|              Mech by Tolik in Blue_Hall|                     H&S by Ming in Hell|                   Proga by Vipin in USA|                                        |
+16 - 17 :                Sensors by Nazim in Hell|                                        |                                        |                                        |                                        |
+17 - 18 :                                        |             Math by Vaska in Green_Hall|                Sensors by Nazim in Hell|                                        |                                        |
+The Schedule for Group Y1Mech
+                                           MONDAY|                                 TUESDAY|                               WEDNESDAY|                                THURSDAY|                                  FRIDAY|
+ 9 - 10 :                                        |                     H&S by Ming in Hell|           Sensors by Nazim in Blue_Hall|                                        |               Materials by Asma in Hell|
+10 - 11 :                                        |                                        |                                        |                                        |                                        |
+11 - 12 :                                        |         Materials by Asma in Green_Hall|                                        |             Proga by Vipin in Blue_Hall|                Sensors by Nazim in Hell|
+12 - 13 :                   Proga by Vipin in USA|                                        |                  Proga by Vipin in Hell|                                        |                   Mech by Tolik in Hell|
+14 - 15 :                                        |                                        |         Materials by Asma in Green_Hall|                                        |                                        |
+15 - 16 :                                        |                    Math by Vaska in USA|             Mech by Tolik in Green_Hall|                                        |                                        |
+16 - 17 :                                        |                   Math by Vaska in Hell|                   Mech by Tolik in Hell|                                        |                                        |
+17 - 18 :                      H&S by Ming in USA|          Materials by Asma in Blue_Hall|                                        |                                        |                                        |
+The Schedule for Group Y4Elec
+                                           MONDAY|                                 TUESDAY|                               WEDNESDAY|                                THURSDAY|                                  FRIDAY|
+ 9 - 10 :                                        |          Materials by Asma in Blue_Hall|                                        |                                        |                                        |
+10 - 11 :                                        |                                        |                Materials by Asma in USA|                                        |                                        |
+11 - 12 :                                        |                                        |                                        |                                        |                                        |
+12 - 13 :                                        |             Proga by Vipin in Blue_Hall|                                        |         Materials by Asma in Green_Hall|                                        |
+14 - 15 :                Materials by Asma in USA|                                        |                                        |                                        |                                        |
+15 - 16 :                                        |                                        |                                        |                                        |                                        |
+16 - 17 :                                        |             Proga by Vipin in Blue_Hall|                                        |                                        |                                        |
+17 - 18 :             Proga by Vipin in Blue_Hall|                                        |                                        |                                        |                                        |

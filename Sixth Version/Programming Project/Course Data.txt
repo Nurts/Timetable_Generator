@@ -1,0 +1,6 @@
+Vaska + Math /2 - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+Vipin + Proga / 3 - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech, Y4Elec;
+Asma + Materials / 4- Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech, Y4Elec;
+Tolik + Mech / 3 - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+Ming + H&S/ 2 - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+Nazim + Sensors/ 2 - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;

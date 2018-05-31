@@ -1,0 +1,18 @@
+Asma Asma: Materials ProjectM ;
+Ming Sing: H&S Struct ;
+Vaska: Math Proga ;
+Vipin: Proga EngMath ;
+Aresh: Proga ;
+Tolik: Mech ;
+Nazim: Sensors ;
+Desmond: EngMath3 ;
+Maxim: EngMath3 ;
+Alima: EngMath3 ;
+Serik: ProjectM Surveying ;
+Ferhat: ProjectM ;
+Shazim: Surveying ;
+Saule: CAD ;
+Shazim: Struct ;
+Chang: CMaterials CAD ;
+Minh: Geology Struct ;
+Dichuan: ChemEng Geology ;

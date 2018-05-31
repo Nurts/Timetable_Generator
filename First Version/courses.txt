@@ -1,0 +1,48 @@
+Engineering_Mathematics_I - BEng11, BEng12, BEng13, BEng14, BEng15.
+Programming_for_Engineers - BEng11, BEng12, BEng13,BEng14,BEng15.
+Engineering_Materials - BEng11, BEng12, BEng13, BEng14, BEng15.
+Engineering_Mechanics - BEng11, BEng12, BEng13, BEng14, BEng15.
+Occupal_&_Environment_Health_and_Safety - BEng11, BEng12, BEng13, BEng14, BEng15.
+Sensors_and_Actuators - EEY2, MEY2.
+Engineering_Mathematics_III - EEY2, CEY2, MEY2, CHEY2.
+Project_Management - CEY3, MEY3, EEY3, CHEY3, MEY4, CEY4, EEY4, CHEY4.
+Surveying - CEY2.
+Civil_Engineering_CAD - CEY2.
+Structural_Analysis_I - CEY2.
+Civil_Engineering_Materials - CEY2.
+Engineering_Geology_and_Rock_Mechanics - CEY3.
+Structural_Design_Concrete - CEY3.
+Capstone_Project_1 - MEY4, CEY4, EEY4, CHEY4.
+Construction_Technologies_and_Processes - CEY3, CEY4.
+Environmental_Engineering - CEY3, CEY4.
+Highway_Engineering - CEY4.
+Introduction_to_Chemical_Engineering - CHEY2.
+Chemistry_I - CHEY2.
+Chemical_Engineering_Thermodynamics - CHEY2.
+Separation_Processes_I - CHEY3.
+Transport_Phenomena_II - CHEY3.
+Research_Practice - CHEY3.
+Advanced_Process_Simulation - CHEY4.
+Chemical_Reaction_Engineering - CHEY3.
+Computational_Methods_in_Chemical_Engineering_II - CHEY4.
+Multi_Phase_Flows - CHEY4.
+Signals_and_Systems - EEY2.
+Digital_Signal_and_Image_Processing - EEY3.
+Microelectronic_Devices_and_Circuits - EEY2.
+Electronic_Engineering_Design_Principles - EEY2.
+Electromagnetics - EEY3.
+Power_Electronics - EEY3.
+Digital_integrated_circuits_design - EEY3.
+Power_Transmission_and_Distribution_plants - EEY4.
+High_Voltage_Engineering - EEY4.
+Power_Systems_Protection - EEY4.
+Computer_Aided_Engineering - MEY2.
+Mechanics_of_Materials - MEY2, CHEY2.
+Machine_Dynamics_I - MEY2.
+Advanced_Control_Systems - MEY3.
+Heat_Transfer - MEY3.
+Machine_Design - MEY3.
+Feasibility_Analysis_of_Clean_Energy_Technologies - MEY4.
+Machine_Dynamics_II - MEY3.
+Vehicle_Propulsion_Systems - MEY4.
+Oscillation_of_Mechanical_Systems - MEY4.

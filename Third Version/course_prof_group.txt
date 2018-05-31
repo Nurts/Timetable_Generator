@@ -1,0 +1,14 @@
+2 Math : Vaska, Ben, Me - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+1 Proga : Vipin, Aresh, He - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech, Y4Elec;
+2 Materials : Asma, Woman, She - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech, Y4Elec;
+3 Mech : Tolik, He, We, Are - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+2 H&S : Ming, Sand, Pen - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+2 Sensors : Nazim, Asa, Man - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+3 EngMath3 : Desmond, Maxim, Alima - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+1 ProjectM : Serik, Ferhat, Tomas - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+3 Surveying : Shazam, Anton, Gala - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+2 CAD : Saule, Zhibek, Bart - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech, Y4Elec;
+1 Struct : Shazam, Peter, Man - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+2 CMaterials : Chang, Song, Ming - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech, Y4Elec;
+2 Geology : Minh, Aria, John - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech;
+3 ChemEng : Dichuan, asd, qwe - Y1Chem, Y2Elec, Y3Mech, Y1Civil, Y1Mech, Y4Elec;

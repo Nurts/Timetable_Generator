@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1511629900 source:d:\c++\for engineers\eng project\sixth version\programming project\schedulegen.cpp
+	"scheduleGen.h"
+
+1511630551 d:\c++\for engineers\eng project\sixth version\programming project\schedulegen.h
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+
+1511687144 source:d:\c++\for engineers\eng project\sixth version\programming project\startprogramm.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+

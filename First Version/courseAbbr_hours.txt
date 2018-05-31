@@ -1,0 +1,48 @@
+Engineering_Mathematics_I - BENGA 2 2 .
+Programming_for_Engineers - BENGB 2 2 .
+Engineering_Materials - BENGC 2 2 .
+Engineering_Mechanics - BENGD 2 2 .
+Occupal_&_Environment_Health_and_Safety - BENGE 2 2 .
+Sensors_and_Actuators - BENGF 2 2 2 .
+Engineering_Mathematics_III - BENGG 2 2 .
+Project_Management - BENGH 2 2 .
+Surveying - ECES 2 2 1 1 .
+Civil_Engineering_CAD - ECER 2 2 1 .
+Structural_Analysis_I - ECEQ 2 2 1.
+Civil_Engineering_Materials - ECEZ 2 2 2 .
+Engineering_Geology_and_Rock_Mechanics - ECEY 2 2 2 .
+Structural_Design_Concrete - ECEX 2 2 2 2 .
+Capstone_Project_1 - ECEW 2 2 .
+Construction_Technologies_and_Processes - ECEA 2 2 .
+Environmental_Engineering - ECEB 2 2 .
+Highway_Engineering - ECEC 2 2 2 .
+Introduction_to_Chemical_Engineering - ECHEA 2 2 .
+Chemistry_I - ECHEB 4 2 2 .
+Chemical_Engineering_Thermodynamics - ECHEC 2 2 .
+Separation_Processes_I - ECHED 4 2 2 1 .
+Transport_Phenomena_II - ECHEE 2 2 2 .
+Research_Practice - ECHEF 2 2 .
+Advanced_Process_Simulation - ECHEF 2 2 .
+Chemical_Reaction_Engineering - ECHEG 2 2 2 1 .
+Computational_Methods_in_Chemical_Engineering_II - ECHEH 2 2 2 .
+Multi_Phase_Flows - ECHEI 2 2 2 .
+Signals_and_Systems - EEEA 2 2 2 .
+Digital_Signal_and_Image_Processing - EEEB 2 2 2 .
+Microelectronic_Devices_and_Circuits - EEEC 2 2 2 .
+Electronic_Engineering_Design_Principles - EEED 2 2 .
+Electromagnetics - EEEE 2 2 2 .
+Power_Electronics - EEEF 2 2 2 .
+Digital_integrated_circuits_design - EEEG 2 2 2 .
+Power_Transmission_and_Distribution_plants - EEEH 2 2 2 .
+High_Voltage_Engineering - EEEI 2 2 2 .
+Power_Systems_Protection - EEEJ 2 2 2 .
+Computer_Aided_Engineering - EMEA 2 2 .
+Mechanics_of_Materials - EMEB 2 2 2 .
+Machine_Dynamics_I - EMEC 2 2 2 .
+Advanced_Control_Systems - EMED 2 2 .
+Heat_Transfer - EMEE 2 2 2 .
+Machine_Design - EMEF 2 2 2 .
+Feasibility_Analysis_of_Clean_Energy_Technologies - EMEG 2 2 .
+Machine_Dynamics_II - EMEH 2 2 2 .
+Vehicle_Propulsion_Systems - EMEI 2 2 2 .
+Oscillation_of_Mechanical_Systems - EMEJ 2 2 .

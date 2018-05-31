@@ -1,0 +1,5 @@
+Year 1 : Chem 40, Electrical 60, Mech 100, Civil 45;
+Year 2 : Chem 30, Electrical 80, Mech 100, Civil 60;
+Year 3 : Chem 20, Electrical 40, Mech 100, Civil 120;
+Year 4 : Chem 10, Electrical 60, Mech 100, Civil 100;
+

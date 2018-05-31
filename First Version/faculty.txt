@@ -1,0 +1,66 @@
+Asma Perveen - Engineering_Materials.
+Ming Yang - Occupal_&_Environment_Health_and_Safety.
+Vasileios Zarikas - Engineering_Mathematics_I.
+Vipin Kizheppatt - Programming_for_Engineers.
+Aresh Dadlani - Programming_for_Engineers.
+Anatoli Vakhguelt - Engineering_Mechanics.
+Nazim Mir Nasiri - Sensors_and_Actuators.
+Desmond Adair - Engineering_Mathematics_III, Vehicle_Propulsion_Systems.
+Maxim Lu - Engineering_Mathematics_III.
+Serik Tokbolat - Project_Management.
+Ferhat Karaca - Project_Management.
+Shazim Memon - Surveying, Structural_Analysis_I.
+Zhandos Kerimkulov - Surveying.
+Saule Tulebekova - Civil_Engineering_CAD, Structural_Design_Concrete.
+Deuckhang Lee - Civil_Engineering_CAD, Construction_Technologies_and_Processes.
+Chang Shon - Civil_Engineering_Materials, Highway_Engineering.
+Lyazzat Saliyeva - Civil_Engineering_Materials, Engineering_Geology_and_Rock_Mechanics.
+Minh Nguyen - Engineering_Geology_and_Rock_Mechanics, Capstone_Project_1.
+Dichuan Zhang- Structural_Design_Concrete.
+Hau Leung - Construction_Technologies_and_Processes.
+Mert Guney - Environmental_Engineering.
+Dina Kaskina - Environmental_Systems.
+Ayana Muzdubayeva - Introduction_to_Chemical_Engineering.
+Zhumabay Bakenov - Chemistry_I.
+Dhawal Shah - Chemical_Engineering_Thermodynamics.
+Vasileios Inglezakis - Separation_Processes_I.
+Sergey Spotar - Transport_Phenomena_II, Multi_Phase_Flows.
+Roza Demeisinova - Research_Practice.
+Torkmahalleh Amouei - Advanced_Process_Simulation.
+Stavros Poulopoulos - Chemical_Reaction_Engineering.
+Boris Golman - Computational_Methods_in_Chemical_Engineering_II.
+Sayara Saliyeva - Multi_Phase_Flows.
+Behrouz Maham - Signals_and_Systems.
+Beibit Abdikenov - Signals_and_Systems.
+Aigerim Sametkhanova - Digital_Signal_and_Image_Processing.
+Muhammed Akhtar - Digital_Signal_and_Image_Processing.
+Alex James - Microelectronic_Devices_and_Circuits, Digital_integrated_circuits_design.
+Refik Kizilirmak - Electronic_Engineering_Design_Principles, Mobile_Communications.
+Daniele Tosi - Electromagnetics.
+Kanat Turebekov - Electromagnetics, Antennas_and_Propagation.
+Alexander Ruderman - Power_Electronics.
+Yerden Kypshakpayev - Power_Electronics.
+Carlo Molardi - Antennas_and_Propagation.
+Theodoros Tsiftsis - Digital_Communications.
+Sultangali Arzykulov - Digital_Communications.
+Svyatoslav Nezhivenko - Power_Transmission_and_Distribution_plants.
+Mehdi Bagheri - Power_Transmission_and_Distribution_plants, High_Voltage_Engineering.
+Grant Ellis - RF_and_Microwave_Circuit_Design.
+Kumar Nunna - Power_Systems_Protection.
+Hema Satya - Power_Systems_Protection.
+Yerkin Abdildin - Computer_Aided_Engineering.
+Aldiyar Kakimzhan - Computer_Aided_Engineering.
+Didier Talamona - Mechanics_of_Materials, Machine_Dynamics_II.
+Serik Khairaliyev - Mechanics_of_Materials, Oscillation_of_Mechanical_Systems.
+Evagoras Xydas - Machine_Dynamics_I, Advanced_Control_Systems.
+Md Ali - Advanced_Control_Systems.
+Maxime Mussard - Heat_Transfer.
+Chingis Kharmyssov - Heat_Transfer.
+Mathew K - Machine_Design.
+Christos Spitas - Machine_Design.
+Bill Yang - Aerodynamics.
+Yong Zhao - Aerodynamics.
+Soo Teh - Heating_Ventilating_and_Air_Conditioning.
+Konstantinos Kostas - Computer_Aided_Geometric_Design.
+Luis Rojas - Feasibility_Analysis_of_Clean_Energy_Technologies.
+Tair Askar - Machine_Dynamics_II.

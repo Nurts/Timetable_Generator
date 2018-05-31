@@ -1,0 +1,6 @@
+100 Blue_Hall
+100 Green_Hall
+100 Hell
+50 Lab
+120 USA
+30 White_Room

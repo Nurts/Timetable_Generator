@@ -1,0 +1,14 @@
+Math : Math for Engineers
+Proga : Programming for Engineers
+Materials : Materials
+Mech : Mechanics
+H&S : H and S
+Sensors : Only Sensors
+EngMath3 : Engine Math 3
+ProjectM : Project Math
+Surveying : Surveying for survival
+CAD : Chem Active Death
+Struct : Data Structures
+CMaterials : Chemical Materials
+Geology : What? Geology?
+ChemEng : Chemical Engineering

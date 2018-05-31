@@ -1,0 +1,151 @@
+Engineering Mechanics
+Engineering Mathematics I
+Occupal&Environment Health and Safety
+Programming for Engineers
+Engineering Materials
+Engineering Mechanics. Tutorial
+Engineering Mathematics I. Tutorial
+Occupal&Environment Health and Safety. Tutorial
+Programming form Engineers. Tutorial
+Engineering Materials. Tutorial
+Sensors and Actuators
+Sensors and Actuators. Tutorial
+Sensors and Actuators. Lab
+Engineering Mathematics III
+Engineering Mathematics III. Lab
+Surveying
+Surveying.Lab
+Surveying.CompLab
+Civil Engineering CAD
+Civil Engineering CAD.Tutorial
+Civil Engineering CAD.CompLab
+Structural Analysis I
+Structural Analysis I.Tutorial
+Structural Analysis I.CompLab
+Introduction to Chemical Engineering
+Introduction to Chemical Engineering.Tutorial
+Chemistry I
+Chemistry I.Tutorial
+Chemistry I.ChLab
+Signals and Systems
+Signals and Systems. Tutorial
+Signals and Systems. Lab
+Digital Signal and Image Processing
+Digital Signal and Image Processing. Tutorial
+Digital Signal and Image Processing. CompLab
+Microelectronic Devices and Circuits
+Microelectronic Devices and Circuits. Tutorial
+Microelectronic Devices and Circuits. Lab
+Electronic Engineering Design Principles
+Electronic Engineering Design Principles. Lab
+Computer Aided Engineering
+Computer Aided Engineering. CompLab
+Mechanics of Materials
+Mechanics of Materials. Tutorial
+Mechanics of Materials. Lab
+Machine Dynamics I
+Machine Dynamics I. Tutorial
+Machine Dynamics I. Lab
+Civil Engineering Materials
+Civil Engineering Materials. Tutorial
+Civil Engineering Materials. Lab
+Engineering Geology and Rock Mechanics
+Engineering Geology and Rock Mechanics. Tutorial
+Engineering Geology and Rock Mechanics. Lab
+Structural Design - Concrete
+Structural Design - Concrete. Tutorial
+Structural Design - Concrete. Lab
+Structural Design - Concrete. CompLab
+Chemical Engineering Thermodynamics
+Chemical Engineering Thermodynamics. Tutorial
+Separation Processes I
+Separation Processes I.Tutorial
+Separation Processes I. Lab
+Separation Processes I. CompLab
+Transport Phenomena II
+Transport Phenomena II. Tutorial
+Transport Phenomena II. CompLab
+Research Practice
+Research Practice. Tutorial
+Electromagnetics
+Electromagnetics.Tutorial
+Electromagnetics. CompLab
+Power Electronics
+Power Electronics. Tutorial
+Power Electronics. Lab
+Antennas ans Propagation
+Antennas ans Propagation. Tutorial
+Antennas ans Propagation. Lab
+Digital Integrated Circuits Design
+Digital Integrated Circuits Design. Tutorial
+Digital Integrated Circuits Design. Lab
+Advanced Control Systems
+Advanced Control Systems. Lab
+Heat Transfer
+Heat Transfer. Tutorial
+Heat Transfer. Lab
+Machine Design
+Machine Design. Tutorial
+Machine Design. Lab
+Project Management
+Project Management. Tutorial
+Capstone Project I. Lab
+Capstone Project I. CompLab
+Construction Technologies and Processes
+Construction Technologies and Processes. Tutorial
+Environmental Engineering
+Environmental Engineering. Tutorial
+Highway Engineering
+Highway Engineering. Tutorial
+Highway Engineering. Lab
+Environmental Systems
+Environmental Systems. Tutorial
+Capstone Project I. Lab
+Capstone Project I. CompLab
+Advanced Process Simulation
+Advanced Process Simulation. CompLab
+Chemical Reaction Engineering
+Chemical Reaction Engineering. Lab
+Chemical Reaction Engineering. CompLab
+Computational Methods in Chemical Engineering II
+Computational Methods in Chemical Engineering II. Tutorial
+Computational Methods in Chemical Engineering II. CompLab
+Multi-Phase Flows
+Multi-Phase Flows. Tutorial
+Multi-Phase Flows. CompLab
+Digital Communications
+Digital Communications. CompLab
+Capstone Project I
+Capstone Project I. Lab
+Power Transmition and Distribution Plants
+Power Transmition and Distribution Plants. Tutorial
+Power Transmition and Distribution Plants. Lab
+RF and Microwave Circuit Design
+RF and Microwave Circuit Design. Tutorial
+RF and Microwave Circuit Design. Lab
+High voltage Enigineering
+High voltage Enigineering. Tutorial
+High voltage Enigineering. Lab
+Power Systems Protection
+Power Systems Protection. Tutorial
+Power Systems Protection. Lab
+Mobile Communications
+Mobile Communications. Tutorial
+Mobile Communications. Lab
+Aerodynamics
+Aerodynamics. Tutorial
+Heating, Ventilating, and Air Conditioning
+Heating, Ventilating, and Air Conditioning. Tutorial
+Computer Edit Geometric Design
+Capstone Project I
+Capstone Project I. CompLab
+Feasibility Analysis of Clean Energy Technologies
+Feasibility Analysis of Clean Energy Technologies. CompLab
+Machine Dynamics II
+Machine Dynamics II. Tutorial
+Machine Dynamics II. Lab
+Vehicle Propulsion Systems
+Vehicle Propulsion Systems. Tutorial
+Vehicle Propulsion Systems. Lab
+Oscillation of Mechanical Systems
+Oscillation of Mechanical Systems. Tutorial

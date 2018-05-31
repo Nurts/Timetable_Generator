@@ -1,0 +1,137 @@
+
+The timetable of group SEng11
+M 09.00-09.50 Course: Math, Faculty: Ben, Room: R2
+M 15.00-15.50 Course: Mech, Faculty: Tolik, Room: R3
+M 17.00-17.50 Course: Math, Faculty: Vaska, Room: R9
+T 10.00-10.50 Course: H&S, Faculty: MingSand, Room: R4
+T 11.00-11.50 Course: Math, Faculty: Ben, Room: R1
+T 12.00-12.50 Course: H&S, Faculty: MingSand, Room: R9
+T 14.00-14.50 Course: Mech, Faculty: Tolik, Room: R1
+T 15.00-15.50 Course: Proga, Faculty: Vipin, Room: R12
+W 09.00-09.50 Course: Mech, Faculty: Tolik, Room: R9
+W 10.00-10.50 Course: Proga, Faculty: Vipin, Room: R8
+W 16.00-16.50 Course: Materials, Faculty: AsmaWoman, Room: R7
+R 10.00-10.50 Course: Mech, Faculty: Tolik, Room: R7
+R 14.00-14.50 Course: Materials, Faculty: AsmaWoman, Room: R1
+F 09.00-09.50 Course: H&S, Faculty: MingSand, Room: R1
+
+
+The timetable of group SEng12
+M 10.00-10.50 Course: Mech, Faculty: Tolik, Room: R8
+M 12.00-12.50 Course: Mech, Faculty: Tolik, Room: R12
+M 16.00-16.50 Course: H&S, Faculty: MingSand, Room: R7
+M 17.00-17.50 Course: Materials, Faculty: AsmaWoman, Room: R8
+T 10.00-10.50 Course: Proga, Faculty: Aresh, Room: R1
+T 16.00-16.50 Course: Math, Faculty: Vaska, Room: R1
+T 17.00-17.50 Course: Math, Faculty: Vaska, Room: R8
+W 10.00-10.50 Course: Math, Faculty: Ben, Room: R1
+W 12.00-12.50 Course: Mech, Faculty: Tolik, Room: R4
+W 15.00-15.50 Course: H&S, Faculty: MingSand, Room: R11
+R 15.00-15.50 Course: Proga, Faculty: Aresh, Room: R12
+F 10.00-10.50 Course: H&S, Faculty: MingSand, Room: R12
+F 14.00-14.50 Course: Materials, Faculty: AsmaWoman, Room: R5
+F 16.00-16.50 Course: Mech, Faculty: Tolik, Room: R12
+
+
+The timetable of group SEng13
+M 11.00-11.50 Course: Math, Faculty: Ben, Room: R6
+T 09.00-09.50 Course: Mech, Faculty: Tolik, Room: R3
+T 10.00-10.50 Course: Math, Faculty: Ben, Room: R6
+T 11.00-11.50 Course: H&S, Faculty: MingSand, Room: R10
+W 11.00-11.50 Course: Mech, Faculty: Tolik, Room: R10
+W 12.00-12.50 Course: Materials, Faculty: AsmaWoman, Room: R10
+W 14.00-14.50 Course: Math, Faculty: Ben, Room: R7
+W 17.00-17.50 Course: H&S, Faculty: MingSand, Room: R3
+R 09.00-09.50 Course: Proga, Faculty: Vipin, Room: R12
+R 10.00-10.50 Course: H&S, Faculty: MingSand, Room: R10
+R 15.00-15.50 Course: Materials, Faculty: AsmaWoman, Room: R2
+R 17.00-17.50 Course: Mech, Faculty: Tolik, Room: R5
+F 10.00-10.50 Course: Mech, Faculty: Tolik, Room: R3
+F 14.00-14.50 Course: Proga, Faculty: Vipin, Room: R9
+
+
+The timetable of group SEng14
+M 09.00-09.50 Course: Mech, Faculty: Tolik, Room: R4
+M 11.00-11.50 Course: Math, Faculty: Vaska, Room: R10
+M 15.00-15.50 Course: Proga, Faculty: Aresh, Room: R11
+T 10.00-10.50 Course: Mech, Faculty: Tolik, Room: R11
+T 14.00-14.50 Course: Materials, Faculty: AsmaWoman, Room: R8
+T 15.00-15.50 Course: Mech, Faculty: Tolik, Room: R4
+T 17.00-17.50 Course: Materials, Faculty: AsmaWoman, Room: R10
+W 14.00-14.50 Course: Math, Faculty: Vaska, Room: R10
+W 17.00-17.50 Course: Mech, Faculty: Tolik, Room: R10
+R 12.00-12.50 Course: H&S, Faculty: MingSand, Room: R3
+F 09.00-09.50 Course: Math, Faculty: Ben, Room: R6
+F 11.00-11.50 Course: H&S, Faculty: MingSand, Room: R12
+F 12.00-12.50 Course: Proga, Faculty: Aresh, Room: R2
+F 15.00-15.50 Course: H&S, Faculty: MingSand, Room: R5
+
+
+The timetable of group SEng15
+M 10.00-10.50 Course: Proga, Faculty: Aresh, Room: R3
+M 16.00-16.50 Course: Materials, Faculty: AsmaWoman, Room: R9
+T 10.00-10.50 Course: Math, Faculty: Vaska, Room: R2
+T 11.00-11.50 Course: Mech, Faculty: Tolik, Room: R2
+T 17.00-17.50 Course: Mech, Faculty: Tolik, Room: R9
+W 10.00-10.50 Course: Math, Faculty: Vaska, Room: R2
+W 17.00-17.50 Course: Math, Faculty: Vaska, Room: R5
+R 09.00-09.50 Course: H&S, Faculty: MingSand, Room: R3
+R 10.00-10.50 Course: Materials, Faculty: AsmaWoman, Room: R9
+R 14.00-14.50 Course: Mech, Faculty: Tolik, Room: R10
+F 12.00-12.50 Course: H&S, Faculty: MingSand, Room: R7
+F 14.00-14.50 Course: Proga, Faculty: Aresh, Room: R11
+F 15.00-15.50 Course: Mech, Faculty: Tolik, Room: R2
+F 17.00-17.50 Course: H&S, Faculty: MingSand, Room: R7
+
+
+The timetable of group EEY1
+T 17.00-17.50 Course: EngMath3, Faculty: Desmond, Room: R1
+W 11.00-11.50 Course: Surveying, Faculty: Shazam, Room: R4
+R 10.00-10.50 Course: Surveying, Faculty: Shazam, Room: R5
+R 11.00-11.50 Course: Sensors, Faculty: Nazim, Room: R4
+R 12.00-12.50 Course: EngMath3, Faculty: Desmond, Room: R2
+R 15.00-15.50 Course: ProjectM, Faculty: Serik, Room: R7
+R 16.00-16.50 Course: Sensors, Faculty: Nazim, Room: R5
+F 11.00-11.50 Course: Surveying, Faculty: Shazam, Room: R3
+F 17.00-17.50 Course: Sensors, Faculty: Nazim, Room: R6
+
+
+The timetable of group MEY1
+M 09.00-09.50 Course: ProjectM, Faculty: Ferhat, Room: R12
+W 09.00-09.50 Course: ProjectM, Faculty: Ferhat, Room: R2
+W 10.00-10.50 Course: EngMath3, Faculty: Maxim, Room: R3
+R 11.00-11.50 Course: Surveying, Faculty: Shazam, Room: R9
+R 12.00-12.50 Course: EngMath3, Faculty: Maxim, Room: R9
+F 14.00-14.50 Course: ProjectM, Faculty: Serik, Room: R4
+
+
+The timetable of group CIEY1
+M 11.00-11.50 Course: Surveying, Faculty: Shazam, Room: R9
+M 12.00-12.50 Course: ProjectM, Faculty: Serik, Room: R11
+M 16.00-16.50 Course: CMaterials, Faculty: Chang, Room: R4
+M 17.00-17.50 Course: ProjectM, Faculty: Ferhat, Room: R10
+T 16.00-16.50 Course: Surveying, Faculty: Shazam, Room: R4
+W 12.00-12.50 Course: CAD, Faculty: Saule, Room: R2
+W 14.00-14.50 Course: Geology, Faculty: Minh, Room: R12
+W 17.00-17.50 Course: ProjectM, Faculty: Serik, Room: R4
+R 12.00-12.50 Course: Struct, Faculty: Shazam, Room: R7
+R 15.00-15.50 Course: Surveying, Faculty: Shazam, Room: R9
+R 17.00-17.50 Course: ProjectM, Faculty: Ferhat, Room: R7
+F 10.00-10.50 Course: CMaterials, Faculty: Chang, Room: R5
+F 11.00-11.50 Course: CMaterials, Faculty: Chang, Room: R4
+F 14.00-14.50 Course: EngMath3, Faculty: Alima, Room: R2
+F 15.00-15.50 Course: CAD, Faculty: Saule, Room: R4
+F 17.00-17.50 Course: Struct, Faculty: Shazam, Room: R1
+
+
+The timetable of group CHEY1
+M 17.00-17.50 Course: EngMath3, Faculty: Alima, Room: R3
+T 09.00-09.50 Course: EngMath3, Faculty: Alima, Room: R8
+T 15.00-15.50 Course: Surveying, Faculty: Shazam, Room: R10
+T 16.00-16.50 Course: ChemEng, Faculty: Dichuan, Room: R2
+W 17.00-17.50 Course: Surveying, Faculty: Shazam, Room: R9
+R 09.00-09.50 Course: ChemEng, Faculty: Dichuan, Room: R8
+F 11.00-11.50 Course: ProjectM, Faculty: Ferhat, Room: R2
+F 14.00-14.50 Course: Surveying, Faculty: Shazam, Room: R7
+F 16.00-16.50 Course: ChemEng, Faculty: Dichuan, Room: R9
+

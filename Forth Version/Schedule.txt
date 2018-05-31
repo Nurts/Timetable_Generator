@@ -1,0 +1,20 @@
+Course Title:  Math for Engineers
+       Day|                Time|        Faculty Name|           Room|
+         M|   10:00 AM-10:50 AM|               Vaska|          3.427|
+         W|    02:00 PM-2:50 PM|               Vaska|    Senate_Hall|
+Course Title:  Programming for Engineers
+       Day|                Time|        Faculty Name|           Room|
+         W|   11:00 AM-11:50 AM|               Vipin|          3.222|
+         R|   12:00 PM-12:50 PM|               Vipin|          5.105|
+Course Title:  Materials
+       Day|                Time|        Faculty Name|           Room|
+         T|   09:00 AM-09:50 AM|           Asma Asma|          3.322|
+         T|   11:00 AM-11:50 AM|           Asma Asma|          3.222|
+         R|   04:00 PM-04:50 PM|           Asma Asma|          3.205|
+Course Title:  Mechanics
+       Day|                Time|        Faculty Name|           Room|
+         W|   03:00 PM-03:50 PM|               Tolik|     Green_Hall|
+Course Title:  H and S
+       Day|                Time|        Faculty Name|           Room|
+         M|   12:00 PM-12:50 PM|           Ming Sing|          5.105|
+         M|   11:00 AM-11:50 AM|           Ming Sing|          3.322|

@@ -1,0 +1,204 @@
+
+Timetable for student of group BEng11
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | BENGA | 3.223 | VasileiosZarikas      |                                       | BENGE | 3.303 | MingYang              | BENGD | 6.327 | AnatoliVakhguelt      |                                       
+10:00-10:50 | BENGA | 3.223 | VasileiosZarikas      |                                       | BENGE | 3.303 | MingYang              | BENGD | 6.327 | AnatoliVakhguelt      |                                       
+11:00-11:50 |                                       |                                       | BENGB | 3.224 | VipinKizheppatt       | BENGC | Orange_Hall | AsmaPerveen     |                                       
+12:00-12:50 |                                       |                                       | BENGB | 3.224 | VipinKizheppatt       | BENGC | Orange_Hall | AsmaPerveen     |                                       
+14:00-14:50 | BENGB | 3.223 | VipinKizheppatt       |                                       | BENGD | 3.316 | AnatoliVakhguelt      |                                       |                                       
+15:00-15:50 | BENGB | 3.223 | VipinKizheppatt       |                                       | BENGD | 3.316 | AnatoliVakhguelt      |                                       |                                       
+16:00-16:50 |                                       | BENGA | 3.223 | VasileiosZarikas      | BENGC | 6.408 | AsmaPerveen           |                                       | BENGE | 3.217 | MingYang              
+17:00-17:50 |                                       | BENGA | 3.223 | VasileiosZarikas      | BENGC | 6.408 | AsmaPerveen           |                                       | BENGE | 3.217 | MingYang              
+
+
+Timetable for student of group BEng12
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | BENGA | 3.221 | VasileiosZarikas      |                                       |                                       | BENGD | 3.220 | AnatoliVakhguelt      | BENGE | 3.302 | MingYang              
+10:00-10:50 | BENGA | 3.221 | VasileiosZarikas      |                                       |                                       | BENGD | 3.220 | AnatoliVakhguelt      | BENGE | 3.302 | MingYang              
+11:00-11:50 | BENGB | 3.220 | AreshDadlani          |                                       | BENGD | 3.143 | AnatoliVakhguelt      |                                       |                                       
+12:00-12:50 | BENGB | 3.220 | AreshDadlani          |                                       | BENGD | 3.143 | AnatoliVakhguelt      |                                       |                                       
+14:00-14:50 |                                       |                                       | BENGA | 6.408 | VasileiosZarikas      | BENGC | 3.217 | AsmaPerveen           | BENGC | Orange_Hall | AsmaPerveen     
+15:00-15:50 |                                       |                                       | BENGA | 6.408 | VasileiosZarikas      | BENGC | 3.217 | AsmaPerveen           | BENGC | Orange_Hall | AsmaPerveen     
+16:00-16:50 |                                       | BENGE | 3.407 | MingYang              | BENGB | 3.143 | AreshDadlani          |                                       |                                       
+17:00-17:50 |                                       | BENGE | 3.407 | MingYang              | BENGB | 3.143 | AreshDadlani          |                                       |                                       
+
+
+Timetable for student of group BEng13
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       |                                       | BENGA | 3.322 | VasileiosZarikas      |                                       | BENGA | 3.317 | VasileiosZarikas      
+10:00-10:50 |                                       |                                       | BENGA | 3.322 | VasileiosZarikas      |                                       | BENGA | 3.317 | VasileiosZarikas      
+11:00-11:50 | BENGC | 3.317 | AsmaPerveen           |                                       |                                       |                                       |                                       
+12:00-12:50 | BENGC | 3.317 | AsmaPerveen           |                                       |                                       |                                       |                                       
+14:00-14:50 | BENGE | Orange_Hall | MingYang        | BENGC | 6.112 | AsmaPerveen           |                                       | BENGB | 3.227 | AreshDadlani          | BENGD | 6.422 | AnatoliVakhguelt      
+15:00-15:50 | BENGE | Orange_Hall | MingYang        | BENGC | 6.112 | AsmaPerveen           |                                       | BENGB | 3.227 | AreshDadlani          | BENGD | 6.422 | AnatoliVakhguelt      
+16:00-16:50 |                                       | BENGD | 3.217 | AnatoliVakhguelt      | BENGB | 6.522 | AreshDadlani          |                                       | BENGE | 6.112 | MingYang              
+17:00-17:50 |                                       | BENGD | 3.217 | AnatoliVakhguelt      | BENGB | 6.522 | AreshDadlani          |                                       | BENGE | 6.112 | MingYang              
+
+
+Timetable for student of group BEng14
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | BENGC | 3.416 | AsmaPerveen           |                                       |                                       |                                       
+10:00-10:50 |                                       | BENGC | 3.416 | AsmaPerveen           |                                       |                                       |                                       
+11:00-11:50 | BENGC | 10_TP | AsmaPerveen           | BENGD | 6.154 | AnatoliVakhguelt      | BENGA | 3.415 | VasileiosZarikas      | BENGB | 3.322 | VipinKizheppatt       |                                       
+12:00-12:50 | BENGC | 10_TP | AsmaPerveen           | BENGD | 6.154 | AnatoliVakhguelt      | BENGA | 3.415 | VasileiosZarikas      | BENGB | 3.322 | VipinKizheppatt       |                                       
+14:00-14:50 |                                       | BENGE | 6.408 | MingYang              | BENGD | 6.154 | AnatoliVakhguelt      |                                       |                                       
+15:00-15:50 |                                       | BENGE | 6.408 | MingYang              | BENGD | 6.154 | AnatoliVakhguelt      |                                       |                                       
+16:00-16:50 | BENGA | 6.422 | VasileiosZarikas      | BENGB | 3.220 | VipinKizheppatt       |                                       |                                       | BENGE | 6.522 | MingYang              
+17:00-17:50 | BENGA | 6.422 | VasileiosZarikas      | BENGB | 3.220 | VipinKizheppatt       |                                       |                                       | BENGE | 6.522 | MingYang              
+
+
+Timetable for student of group BEng15
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | BENGA | 10_TP | VasileiosZarikas      | BENGE | 3.416 | MingYang              |                                       | BENGD | 3.322 | AnatoliVakhguelt      
+10:00-10:50 |                                       | BENGA | 10_TP | VasileiosZarikas      | BENGE | 3.416 | MingYang              |                                       | BENGD | 3.322 | AnatoliVakhguelt      
+11:00-11:50 |                                       | BENGC | 3.309 | AsmaPerveen           | BENGA | 10_TP | VasileiosZarikas      |                                       | BENGC | 6.508 | AsmaPerveen           
+12:00-12:50 |                                       | BENGC | 3.309 | AsmaPerveen           | BENGA | 10_TP | VasileiosZarikas      |                                       | BENGC | 6.508 | AsmaPerveen           
+14:00-14:50 |                                       |                                       | BENGB | 3.317 | AreshDadlani          |                                       |                                       
+15:00-15:50 |                                       |                                       | BENGB | 3.317 | AreshDadlani          |                                       |                                       
+16:00-16:50 | BENGB | 10_TP | AreshDadlani          |                                       |                                       | BENGD | 7.322 | AnatoliVakhguelt      | BENGE | 3.221 | MingYang              
+17:00-17:50 | BENGB | 10_TP | AreshDadlani          |                                       |                                       | BENGD | 7.322 | AnatoliVakhguelt      | BENGE | 3.221 | MingYang              
+
+
+Timetable for student of group EEY2
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | EEEA | 3.407 | BeibitAbdikenov        | EEEC | 3.407 | AlexJames              |                                       |                                       | BENGF | 3.309 | NazimMirNasiri        
+10:00-10:50 | EEEA | 3.407 | BeibitAbdikenov        | EEEC | 3.407 | AlexJames              |                                       |                                       | BENGF | 3.309 | NazimMirNasiri        
+11:00-11:50 | BENGF | 6.112 | NazimMirNasiri        | EEEA | 3.317 | BeibitAbdikenov        | BENGG | 3.407 | MaximLu               | EEEC | 3.407 | AlexJames              | EEED | 3.221 | RefikKizilirmak        
+12:00-12:50 | BENGF | 6.112 | NazimMirNasiri        | EEEA | 3.317 | BeibitAbdikenov        | BENGG | 3.407 | MaximLu               | EEEC | 3.407 | AlexJames              | EEED | 3.221 | RefikKizilirmak        
+14:00-14:50 | BENGF | 3.322 | NazimMirNasiri        |                                       | EEED | Blue_Hall | RefikKizilirmak    | BENGG | 3.221 | DesmondAdair          | EEEC | 3.303 | AlexJames              
+15:00-15:50 | BENGF | 3.322 | NazimMirNasiri        |                                       | EEED | Blue_Hall | RefikKizilirmak    | BENGG | 3.221 | DesmondAdair          | EEEC | 3.303 | AlexJames              
+16:00-16:50 |                                       |                                       | EEEA | 6.112 | BehrouzMaham           |                                       |                                       
+17:00-17:50 |                                       |                                       | EEEA | 6.112 | BehrouzMaham           |                                       |                                       
+
+
+Timetable for student of group MEY2
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | EMEC | 3.317 | EvagorasXydas          | EMEB | 3.309 | DidierTalamona         |                                       | BENGF | 3.221 | NazimMirNasiri        
+10:00-10:50 |                                       | EMEC | 3.317 | EvagorasXydas          | EMEB | 3.309 | DidierTalamona         |                                       | BENGF | 3.221 | NazimMirNasiri        
+11:00-11:50 |                                       | EMEC | Orange_Hall | EvagorasXydas    | EMEC | 3.317 | EvagorasXydas          | EMEA | 6.427 | YerkinAbdildin         |                                       
+12:00-12:50 |                                       | EMEC | Orange_Hall | EvagorasXydas    | EMEC | 3.317 | EvagorasXydas          | EMEA | 6.427 | YerkinAbdildin         |                                       
+14:00-14:50 | BENGG | 3.316 | MaximLu               | BENGF | 3.302 | NazimMirNasiri        | BENGF | 3.309 | NazimMirNasiri        |                                       |                                       
+15:00-15:50 | BENGG | 3.316 | MaximLu               | BENGF | 3.302 | NazimMirNasiri        | BENGF | 3.309 | NazimMirNasiri        |                                       |                                       
+16:00-16:50 | BENGG | 3.416 | DesmondAdair          |                                       | EMEA | 3.224 | YerkinAbdildin         | EMEB | 3.416 | SerikKhairaliyev       | EMEB | 3.316 | DidierTalamona         
+17:00-17:50 | BENGG | 3.416 | DesmondAdair          |                                       | EMEA | 3.224 | YerkinAbdildin         | EMEB | 3.416 | SerikKhairaliyev       | EMEB | 3.316 | DidierTalamona         
+
+
+Timetable for student of group CEY2
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       |                                       | ECES | 6.422 | ShazimMemon            |                                       |                                       
+10:00-10:50 |                                       |                                       | ECES | 6.422 | ShazimMemon            | ECEQ | 6.154 | ShazimMemon            |                                       
+11:00-11:50 | BENGG | Blue_Hall | MaximLu           |                                       | ECEZ | 3.220 | ChangShon              | ECEZ | Blue_Hall | LyazzatSaliyeva    |                                       
+12:00-12:50 | BENGG | Blue_Hall | MaximLu           | ECES | 3.302 | ShazimMemon            | ECEZ | 3.220 | ChangShon              | ECEZ | Blue_Hall | LyazzatSaliyeva    |                                       
+14:00-14:50 | ECER | 3.221 | SauleTulebekova        | ECER | 3.322 | DeuckhangLee           | ECEQ | 3.223 | ShazimMemon            | BENGG | 6.522 | DesmondAdair          | ECER | 3.416 | DeuckhangLee           
+15:00-15:50 | ECER | 3.221 | SauleTulebekova        | ECES | 3.303 | ZhandosKerimkulov      | ECEQ | 3.223 | ShazimMemon            | BENGG | 6.522 | DesmondAdair          | ECER | 3.416 | DeuckhangLee           
+16:00-16:50 |                                       |                                       | ECES | 3.416 | ShazimMemon            | ECEQ | 3.302 | ShazimMemon            | ECEZ | 6.154 | ChangShon              
+17:00-17:50 |                                       |                                       | ECES | 3.416 | ShazimMemon            | ECEQ | 3.302 | ShazimMemon            | ECEZ | 6.154 | ChangShon              
+
+
+Timetable for student of group CHEY2
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | EMEB | 3.309 | DidierTalamona         | BENGG | 6.422 | MaximLu               | ECHEC | 3.302 | DhawalShah            | ECHEC | 3.316 | DhawalShah            | ECHEB | Blue_Hall | ZhumabayBakenov   
+10:00-10:50 | EMEB | 3.309 | DidierTalamona         | BENGG | 6.422 | MaximLu               | ECHEC | 3.302 | DhawalShah            | ECHEC | 3.316 | DhawalShah            | ECHEB | Blue_Hall | ZhumabayBakenov   
+11:00-11:50 | EMEB | 6.522 | SerikKhairaliyev       |                                       |                                       |                                       | BENGG | 6.112 | MaximLu               
+12:00-12:50 | EMEB | 6.522 | SerikKhairaliyev       |                                       |                                       |                                       | BENGG | 6.112 | MaximLu               
+14:00-14:50 | ECHEB | Blue_Hall | ZhumabayBakenov   | EMEB | 3.223 | DidierTalamona         | ECHEB | 3.322 | ZhumabayBakenov       |                                       |                                       
+15:00-15:50 | ECHEB | Blue_Hall | ZhumabayBakenov   | EMEB | 3.223 | DidierTalamona         | ECHEB | 3.322 | ZhumabayBakenov       |                                       |                                       
+16:00-16:50 | ECHEB | Blue_Hall | ZhumabayBakenov   | ECHEA | 3.302 | AyanaMuzdubayeva      |                                       |                                       | ECHEA | 3.220 | AyanaMuzdubayeva      
+17:00-17:50 | ECHEB | Blue_Hall | ZhumabayBakenov   | ECHEA | 3.302 | AyanaMuzdubayeva      |                                       |                                       | ECHEA | 3.220 | AyanaMuzdubayeva      
+
+
+Timetable for student of group EEY3
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | EEEB | 3.302 | AigerimSametkhanova    | EEEE | 3.302 | KanatTurebekov         | BENGH | 3.220 | SerikTokbolat         | EEEF | 3.407 | YerdenKypshakpayev     | EEEF | 3.220 | AlexanderRuderman      
+10:00-10:50 | EEEB | 3.302 | AigerimSametkhanova    | EEEE | 3.302 | KanatTurebekov         | BENGH | 3.220 | SerikTokbolat         | EEEF | 3.407 | YerdenKypshakpayev     | EEEF | 3.220 | AlexanderRuderman      
+11:00-11:50 | EEEG | 3.416 | AlexJames              |                                       |                                       | EEEG | 3.309 | AlexJames              |                                       
+12:00-12:50 | EEEG | 3.416 | AlexJames              |                                       |                                       | EEEG | 3.309 | AlexJames              |                                       
+14:00-14:50 |                                       | EEEE | 3.224 | KanatTurebekov         | EEEG | 6.427 | AlexJames              | BENGH | 6.427 | FerhatKaraca          | EEEB | 3.316 | MuhammedAkhtar         
+15:00-15:50 |                                       | EEEE | 3.224 | KanatTurebekov         | EEEG | 6.427 | AlexJames              | BENGH | 6.427 | FerhatKaraca          | EEEB | 3.316 | MuhammedAkhtar         
+16:00-16:50 |                                       | EEEF | 3.416 | YerdenKypshakpayev     | EEEE | 3.322 | KanatTurebekov         | EEEB | 3.303 | MuhammedAkhtar         |                                       
+17:00-17:50 |                                       | EEEF | 3.416 | YerdenKypshakpayev     | EEEE | 3.322 | KanatTurebekov         | EEEB | 3.303 | MuhammedAkhtar         |                                       
+
+
+Timetable for student of group MEY3
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       |                                       | EMEH | 3.316 | DidierTalamona         | EMEF | 3.303 | ChristosSpitas         |                                       
+10:00-10:50 |                                       |                                       | EMEH | 3.316 | DidierTalamona         | EMEF | 3.303 | ChristosSpitas         |                                       
+11:00-11:50 |                                       | EMEF | 6.112 | MathewK                |                                       | EMEE | 6.154 | ChingisKharmyssov      | EMEE | 3.309 | MaximeMussard          
+12:00-12:50 |                                       | EMEF | 6.112 | MathewK                |                                       | EMEE | 6.154 | ChingisKharmyssov      | EMEE | 3.309 | MaximeMussard          
+14:00-14:50 | EMEH | 3.416 | TairAskar              | EMEH | 3.317 | DidierTalamona         | BENGH | 6.422 | FerhatKaraca          |                                       |                                       
+15:00-15:50 | EMEH | 3.416 | TairAskar              | EMEH | 3.317 | DidierTalamona         | BENGH | 6.422 | FerhatKaraca          |                                       |                                       
+16:00-16:50 | EMED | 3.220 | MdAli                  | BENGH | 3.322 | FerhatKaraca          | EMEE | 6.154 | ChingisKharmyssov      | EMEF | Orange_Hall | ChristosSpitas   | EMED | 3.309 | MdAli                  
+17:00-17:50 | EMED | 3.220 | MdAli                  | BENGH | 3.322 | FerhatKaraca          | EMEE | 6.154 | ChingisKharmyssov      | EMEF | Orange_Hall | ChristosSpitas   | EMED | 3.309 | MdAli                  
+
+
+Timetable for student of group CEY3
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | ECEB | 3.224 | MertGuney              |                                       |                                       |                                       | ECEX | Orange_Hall | SauleTulebekova  
+10:00-10:50 | ECEB | 3.224 | MertGuney              |                                       |                                       |                                       | ECEX | Orange_Hall | SauleTulebekova  
+11:00-11:50 | ECEY | 3.407 | LyazzatSaliyeva        | ECEA | 3.220 | HauLeung               |                                       | ECEY | 3.302 | LyazzatSaliyeva        | BENGH | 3.407 | SerikTokbolat         
+12:00-12:50 | ECEY | 3.407 | LyazzatSaliyeva        | ECEA | 3.220 | HauLeung               |                                       | ECEY | 3.302 | LyazzatSaliyeva        | BENGH | 3.407 | SerikTokbolat         
+14:00-14:50 | ECEX | 6.422 | DichuanZhang           |                                       | ECEY | 6.112 | LyazzatSaliyeva        |                                       | ECEA | 3.220 | DeuckhangLee           
+15:00-15:50 | ECEX | 6.422 | DichuanZhang           |                                       | ECEY | 6.112 | LyazzatSaliyeva        |                                       | ECEA | 3.220 | DeuckhangLee           
+16:00-16:50 | BENGH | 3.224 | SerikTokbolat         |                                       | ECEX | 3.220 | DichuanZhang           | ECEX | 3.223 | DichuanZhang           | ECEB | Orange_Hall | MertGuney        
+17:00-17:50 | BENGH | 3.224 | SerikTokbolat         |                                       | ECEX | 3.220 | DichuanZhang           | ECEX | 3.223 | DichuanZhang           | ECEB | Orange_Hall | MertGuney        
+
+
+Timetable for student of group CHEY3
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | ECHEG | 3.322 | StavrosPoulopoulos    | ECHED | Orange_Hall | VasileiosInglezakis| ECHED | 3.317 | VasileiosInglezakis   | ECHEG | 6.522 | StavrosPoulopoulos    
+10:00-10:50 |                                       | ECHEG | 3.322 | StavrosPoulopoulos    | ECHED | Orange_Hall | VasileiosInglezakis| ECHED | 3.317 | VasileiosInglezakis   | ECHEG | 6.522 | StavrosPoulopoulos    
+11:00-11:50 | ECHEF | 6.427 | RozaDemeisinova       | ECHEE | 3.223 | SergeySpotar          | ECHEE | 3.221 | SergeySpotar          | ECHED | 3.317 | VasileiosInglezakis   | ECHED | 3.416 | VasileiosInglezakis   
+12:00-12:50 | ECHEF | 6.427 | RozaDemeisinova       | ECHEE | 3.223 | SergeySpotar          | ECHEE | 3.221 | SergeySpotar          | ECHED | 3.317 | VasileiosInglezakis   | ECHED | 3.416 | VasileiosInglezakis   
+14:00-14:50 |                                       | ECHEG | Orange_Hall | StavrosPoulopoulos|                                       | BENGH | 3.220 | FerhatKaraca          |                                       
+15:00-15:50 |                                       |                                       |                                       | BENGH | 3.220 | FerhatKaraca          |                                       
+16:00-16:50 | ECHEE | 3.316 | SergeySpotar          | ECHED | 3.317 | VasileiosInglezakis   | ECHEF | 3.309 | RozaDemeisinova       | ECHEG | 3.407 | StavrosPoulopoulos    | BENGH | Blue_Hall | SerikTokbolat     
+17:00-17:50 | ECHEE | 3.316 | SergeySpotar          |                                       | ECHEF | 3.309 | RozaDemeisinova       | ECHEG | 3.407 | StavrosPoulopoulos    | BENGH | Blue_Hall | SerikTokbolat     
+
+
+Timetable for student of group EEY4
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | EEEI | 6.154 | MehdiBagheri           |                                       |                                       |                                       | EEEJ | 3.416 | HemaSatya              
+10:00-10:50 | EEEI | 6.154 | MehdiBagheri           |                                       |                                       |                                       | EEEJ | 3.416 | HemaSatya              
+11:00-11:50 | ECEW | Orange_Hall | MinhNguyen       |                                       | EEEH | 6.154 | SvyatoslavNezhivenko   | EEEI | 3.316 | MehdiBagheri           | EEEH | 6.427 | MehdiBagheri           
+12:00-12:50 | ECEW | Orange_Hall | MinhNguyen       |                                       | EEEH | 6.154 | SvyatoslavNezhivenko   | EEEI | 3.316 | MehdiBagheri           | EEEH | 6.427 | MehdiBagheri           
+14:00-14:50 | EEEI | 6.112 | MehdiBagheri           |                                       | ECEW | 3.224 | MinhNguyen             | EEEJ | 3.316 | KumarNunna             | BENGH | 3.407 | FerhatKaraca          
+15:00-15:50 | EEEI | 6.112 | MehdiBagheri           |                                       | ECEW | 3.224 | MinhNguyen             | EEEJ | 3.316 | KumarNunna             | BENGH | 3.407 | FerhatKaraca          
+16:00-16:50 | BENGH | 6.154 | SerikTokbolat         | EEEH | 3.316 | MehdiBagheri           |                                       |                                       | EEEJ | 3.303 | KumarNunna             
+17:00-17:50 | BENGH | 6.154 | SerikTokbolat         | EEEH | 3.316 | MehdiBagheri           |                                       |                                       | EEEJ | 3.303 | KumarNunna             
+
+
+Timetable for student of group MEY4
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 |                                       | EMEI | Orange_Hall | DesmondAdair     |                                       |                                       | EMEI | 3.303 | DesmondAdair           
+10:00-10:50 |                                       | EMEI | Orange_Hall | DesmondAdair     |                                       |                                       | EMEI | 3.303 | DesmondAdair           
+11:00-11:50 |                                       |                                       |                                       |                                       | BENGH | 3.220 | SerikTokbolat         
+12:00-12:50 |                                       |                                       |                                       |                                       | BENGH | 3.220 | SerikTokbolat         
+14:00-14:50 | BENGH | 3.317 | SerikTokbolat         | ECEW | 6.522 | MinhNguyen             | EMEJ | 3.407 | SerikKhairaliyev       | ECEW | 6.154 | MinhNguyen             | EMEG | Blue_Hall | LuisRojas          
+15:00-15:50 | BENGH | 3.317 | SerikTokbolat         | ECEW | 6.522 | MinhNguyen             | EMEJ | 3.407 | SerikKhairaliyev       | ECEW | 6.154 | MinhNguyen             | EMEG | Blue_Hall | LuisRojas          
+16:00-16:50 | EMEI | 6.112 | DesmondAdair           | EMEG | 6.154 | LuisRojas              |                                       | EMEJ | 3.317 | SerikKhairaliyev       |                                       
+17:00-17:50 | EMEI | 6.112 | DesmondAdair           | EMEG | 6.154 | LuisRojas              |                                       | EMEJ | 3.317 | SerikKhairaliyev       |                                       
+
+
+Timetable for student of group CEY4
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | ECEW | 6.522 | MinhNguyen             | BENGH | 6.112 | FerhatKaraca          | ECEC | 6.427 | ChangShon              |                                       |                                       
+10:00-10:50 | ECEW | 6.522 | MinhNguyen             | BENGH | 6.112 | FerhatKaraca          | ECEC | 6.427 | ChangShon              |                                       |                                       
+11:00-11:50 |                                       | BENGH | 3.224 | SerikTokbolat         | ECEB | 3.302 | MertGuney              |                                       |                                       
+12:00-12:50 |                                       | BENGH | 3.224 | SerikTokbolat         | ECEB | 3.302 | MertGuney              |                                       |                                       
+14:00-14:50 |                                       |                                       |                                       | ECEC | Blue_Hall | ChangShon          |                                       
+15:00-15:50 |                                       |                                       |                                       | ECEC | Blue_Hall | ChangShon          |                                       
+16:00-16:50 | ECEA | 3.303 | HauLeung               | ECEC | 6.422 | ChangShon              | ECEW | 6.422 | MinhNguyen             | ECEA | 6.154 | HauLeung               | ECEB | 3.416 | MertGuney              
+17:00-17:50 | ECEA | 3.303 | HauLeung               | ECEC | 6.422 | ChangShon              | ECEW | 6.422 | MinhNguyen             | ECEA | 6.154 | HauLeung               | ECEB | 3.416 | MertGuney              
+
+
+Timetable for student of group CHEY4
+             Monday                                  Tuesday                                 Wednesday                               Thursday                                Friday                                 
+09:00-09:50 | ECHEH | 3.316 | BorisGolman           |                                       | ECHEI | 3.221 | SergeySpotar          | ECHEH | 3.223 | BorisGolman           |                                       
+10:00-10:50 | ECHEH | 3.316 | BorisGolman           |                                       | ECHEI | 3.221 | SergeySpotar          | ECHEH | 3.223 | BorisGolman           |                                       
+11:00-11:50 | BENGH | 3.224 | FerhatKaraca          | ECHEH | Blue_Hall | BorisGolman       |                                       | ECEW | 3.303 | MinhNguyen             | BENGH | 3.316 | SerikTokbolat         
+12:00-12:50 | BENGH | 3.224 | FerhatKaraca          | ECHEH | Blue_Hall | BorisGolman       |                                       | ECEW | 3.303 | MinhNguyen             | BENGH | 3.316 | SerikTokbolat         
+14:00-14:50 | ECHEF | 3.303 | TorkmahallehAmouei    |                                       | ECHEF | 3.220 | TorkmahallehAmouei    | ECEW | 3.302 | MinhNguyen             |                                       
+15:00-15:50 | ECHEF | 3.303 | TorkmahallehAmouei    |                                       | ECHEF | 3.220 | TorkmahallehAmouei    | ECEW | 3.302 | MinhNguyen             |                                       
+16:00-16:50 |                                       | ECHEI | 3.221 | SergeySpotar          |                                       |                                       | ECHEI | 3.407 | SayaraSaliyeva        
+17:00-17:50 |                                       | ECHEI | 3.221 | SergeySpotar          |                                       |                                       | ECHEI | 3.407 | SayaraSaliyeva        
+

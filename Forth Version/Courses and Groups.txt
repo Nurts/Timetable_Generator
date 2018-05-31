@@ -1,0 +1,14 @@
+2 hours Math : SEng11 SEng12 SEng13 SEng14 SEng15 ;
+2 hours Proga : SEng11 SEng12 SEng13 SEng14 SEng15 ;
+3 hours Materials : SEng11 SEng12 SEng13 SEng14 SEng15 ;
+1 hour Mech : SEng11 SEng12 SEng13 SEng14 SEng15 ;
+2 hours H&S : SEng11 SEng12 SEng13 SEng14 SEng15 ;
+3 hours Sensors : EEY1 ;
+3 hours EngMath3 : EEY1 MEY1 CIEY1 CHEY1 ;
+5 hours ProjectM : EEY1 MEY1 CIEY1 CHEY1 ;
+2 hours Surveying : EEY1 MEY1 CIEY1 CHEY1 ;
+2 hours CAD : CIEY1 ;
+3 hours Struct : CIEY1 ;
+1 hour CMaterials : CIEY1 ;
+2 hours Geology : CIEY1 ;
+3 hours ChemEng : CHEY1 ;

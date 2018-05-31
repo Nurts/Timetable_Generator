@@ -1,0 +1,513 @@
+
+Year: 1,Group: 1
+Monday: 
+	09:00-10:50 - Engineering Materials. Tutorial, Asma Perveen, Room #2
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+Tuesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Engineering Mathematics I. Tutorial, Vasileios Zarikas, Room #2
+	14:00-15:50 - 
+	16:00-17:50 - Occupal&Environment Health and Safety. Tutorial, Ming Yang, Room #2
+Wednesday: 
+	09:00-10:50 - Engineering Materials, Asma Perveen, Room #2
+	11:00-12:50 - 
+	14:00-15:50 - Engineering Mathematics I, Vasileios Zarikas, Room #2
+	16:00-17:50 - Engineering Mechanics, Anatoli Vakhguelt, Room #2
+Thursday: 
+	09:00-10:50 - Programming for Engineers, Vipin Kizheppatt, Room #2
+	11:00-12:50 - 
+	14:00-15:50 - Occupal&Environment Health and Safety, Ming Yang, Room #2
+	16:00-17:50 - Programming form Engineers. Tutorial, Vipin Kizheppatt, Room #2
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - Engineering Mechanics. Tutorial, Anatoli Vakhguelt, Room #2
+	14:00-15:50 - 
+	16:00-17:50 - 
+
+Year: 1,Group: 2
+Monday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - Programming for Engineers, Vipin Kizheppatt, Room #2
+	16:00-17:50 - Engineering Mechanics. Tutorial, Anatoli Vakhguelt, Room #2
+Tuesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Occupal&Environment Health and Safety, Ming Yang, Room #3
+	14:00-15:50 - Engineering Mechanics, Anatoli Vakhguelt, Room #2
+	16:00-17:50 - 
+Wednesday: 
+	09:00-10:50 - Engineering Mathematics I, Vasileios Zarikas, Room #3
+	11:00-12:50 - Occupal&Environment Health and Safety. Tutorial, Ming Yang, Room #2
+	14:00-15:50 - 
+	16:00-17:50 - Engineering Materials. Tutorial, Asma Perveen, Room #3
+Thursday: 
+	09:00-10:50 - Engineering Mathematics I. Tutorial, Vasileios Zarikas, Room #3
+	11:00-12:50 - 
+	14:00-15:50 - Engineering Materials, Asma Perveen, Room #3
+	16:00-17:50 - Programming form Engineers. Tutorial, Aresh Dadlani, Room #3
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+
+Year: 1,Group: 3
+Monday: 
+	09:00-10:50 - Engineering Mathematics I. Tutorial, Vasileios Zarikas, Room #3
+	11:00-12:50 - 
+	14:00-15:50 - Programming for Engineers, Aresh Dadlani, Room #3
+	16:00-17:50 - 
+Tuesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Engineering Materials. Tutorial, Asma Perveen, Room #4
+	14:00-15:50 - Occupal&Environment Health and Safety. Tutorial, Ming Yang, Room #3
+	16:00-17:50 - Engineering Mechanics. Tutorial, Anatoli Vakhguelt, Room #3
+Wednesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Engineering Mathematics I, Vasileios Zarikas, Room #3
+	14:00-15:50 - Engineering Materials, Asma Perveen, Room #3
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - Programming form Engineers. Tutorial, Vipin Kizheppatt, Room #3
+	14:00-15:50 - Occupal&Environment Health and Safety, Ming Yang, Room #2
+	16:00-17:50 - Engineering Mechanics, Anatoli Vakhguelt, Room #2
+
+Year: 1,Group: 4
+Monday: 
+	09:00-10:50 - 
+	11:00-12:50 - Engineering Materials, Asma Perveen, Room #2
+	14:00-15:50 - 
+	16:00-17:50 - Programming for Engineers, Vipin Kizheppatt, Room #3
+Tuesday: 
+	09:00-10:50 - Programming form Engineers. Tutorial, Vipin Kizheppatt, Room #2
+	11:00-12:50 - Engineering Mechanics, Anatoli Vakhguelt, Room #5
+	14:00-15:50 - 
+	16:00-17:50 - 
+Wednesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Engineering Materials. Tutorial, Asma Perveen, Room #4
+	14:00-15:50 - 
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - 
+	11:00-12:50 - Engineering Mechanics. Tutorial, Anatoli Vakhguelt, Room #2
+	14:00-15:50 - 
+	16:00-17:50 - Occupal&Environment Health and Safety. Tutorial, Ming Yang, Room #4
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - Engineering Mathematics I. Tutorial, Vasileios Zarikas, Room #4
+	14:00-15:50 - Engineering Mathematics I, Vasileios Zarikas, Room #3
+	16:00-17:50 - Occupal&Environment Health and Safety, Ming Yang, Room #3
+
+Year: 1,Group: 5
+Monday: 
+	09:00-10:50 - Occupal&Environment Health and Safety, Ming Yang, Room #4
+	11:00-12:50 - 
+	14:00-15:50 - Engineering Materials. Tutorial, Asma Perveen, Room #4
+	16:00-17:50 - Engineering Mathematics I, Vasileios Zarikas, Room #4
+Tuesday: 
+	09:00-10:50 - Programming form Engineers. Tutorial, Aresh Dadlani, Room #3
+	11:00-12:50 - 
+	14:00-15:50 - Engineering Materials, Asma Perveen, Room #4
+	16:00-17:50 - 
+Wednesday: 
+	09:00-10:50 - Engineering Mechanics, Anatoli Vakhguelt, Room #4
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - Engineering Mechanics. Tutorial, Anatoli Vakhguelt, Room #4
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - Occupal&Environment Health and Safety. Tutorial, Ming Yang, Room #5
+	14:00-15:50 - Programming for Engineers, Vipin Kizheppatt, Room #4
+	16:00-17:50 - Engineering Mathematics I. Tutorial, Vasileios Zarikas, Room #4
+
+Year: 2,Group: 1
+Monday: 
+	09:00-10:50 - Chemistry I.Tutorial, Zhumabay Bakenov, Room #5
+	11:00-12:50 - Engineering Mathematics III. Lab, Desmond Adair, Room #3
+	14:00-15:50 - 
+	16:00-17:50 - Chemistry I.ChLab, Zhumabay Bakenov, Room #5
+Tuesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Introduction to Chemical Engineering.Tutorial, Moulay-Rachid Babaa, Room #6
+	14:00-15:50 - 
+	16:00-17:50 - 
+Wednesday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - Engineering Mathematics III, Desmond Adair, Room #5
+Friday: 
+	09:00-10:50 - Chemistry I, Zhumabay Bakenov, Room #2
+	11:00-12:50 - Introduction to Chemical Engineering, Moulay-Rachid Babaa, Room #6
+	14:00-15:50 - 
+	16:00-17:50 - 
+
+Year: 2,Group: 2
+Monday: 
+	09:00-10:50 - 
+	11:00-12:50 - Computer Aided Engineering. CompLab, Yerkin Abdildin, Room #4
+	14:00-15:50 - 
+	16:00-17:50 - 
+Tuesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Computer Aided Engineering, Yerkin Abdildin, Room #7
+	14:00-15:50 - Mechanics of Materials, Didier Talamona, Room #5
+	16:00-17:50 - Machine Dynamics I, Evagoras Xydas, Room #4
+Wednesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Mechanics of Materials. Lab, Didier Talamona, Room #5
+	14:00-15:50 - Mechanics of Materials. Tutorial, Didier Talamona, Room #4
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - 
+	11:00-12:50 - Machine Dynamics I. Lab, Evagoras Xydas, Room #3
+	14:00-15:50 - Engineering Mathematics III, Desmond Adair, Room #4
+	16:00-17:50 - Sensors and Actuators, Nazim Mir-Nasiri, Room #6
+Friday: 
+	09:00-10:50 - Machine Dynamics I. Tutorial, Evagoras Xydas, Room #3
+	11:00-12:50 - Sensors and Actuators. Lab, Nazim Mir-Nasiri, Room #7
+	14:00-15:50 - Sensors and Actuators. Tutorial, Nazim Mir-Nasiri, Room #5
+	16:00-17:50 - Engineering Mathematics III. Lab, Desmond Adair, Room #5
+
+Year: 2,Group: 3
+Monday: 
+	09:00-10:50 - Engineering Mathematics III, Desmond Adair, Room #6
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - Electronic Engineering Design Principles, Refik Kizilirmak, Room #6
+Tuesday: 
+	09:00-10:50 - Sensors and Actuators, Nazim Mir-Nasiri, Room #4
+	11:00-12:50 - 
+	14:00-15:50 - Signals and Systems, Behrouz Maham, Room #6
+	16:00-17:50 - Microelectronic Devices and Circuits, Alex James, Room #5
+Wednesday: 
+	09:00-10:50 - Microelectronic Devices and Circuits. Tutorial, Alex James, Room #5
+	11:00-12:50 - Engineering Mathematics III. Lab, Desmond Adair, Room #6
+	14:00-15:50 - Digital Signal and Image Processing, Muhammad Akhtar, Room #5
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - Sensors and Actuators. Lab, Nazim Mir-Nasiri, Room #5
+	11:00-12:50 - Electronic Engineering Design Principles. Lab, Refik Kizilirmak, Room #4
+	14:00-15:50 - Digital Signal and Image Processing. Tutorial, Muhammad Akhtar, Room #5
+	16:00-17:50 - Microelectronic Devices and Circuits. Lab, Alex James, Room #7
+Friday: 
+	09:00-10:50 - Sensors and Actuators. Tutorial, Nazim Mir-Nasiri, Room #4
+	11:00-12:50 - Signals and Systems. Tutorial, Behrouz Maham, Room #8
+	14:00-15:50 - Digital Signal and Image Processing. CompLab, Muhammad Akhtar, Room #6
+	16:00-17:50 - Signals and Systems. Lab, Behrouz Maham, Room #6
+
+Year: 2,Group: 4
+Monday: 
+	09:00-10:50 - Microelectronic Devices and Circuits. Tutorial, Alex James, Room #7
+	11:00-12:50 - Engineering Mathematics III, Maxim Lu, Room #5
+	14:00-15:50 - Digital Signal and Image Processing. CompLab, Muhammad Akhtar, Room #5
+	16:00-17:50 - Signals and Systems. Lab, Behrouz Maham, Room #7
+Tuesday: 
+	09:00-10:50 - Digital Signal and Image Processing. Tutorial, Muhammad Akhtar, Room #5
+	11:00-12:50 - Digital Signal and Image Processing, Muhammad Akhtar, Room #8
+	14:00-15:50 - Sensors and Actuators, Nazim Mir-Nasiri, Room #7
+	16:00-17:50 - 
+Wednesday: 
+	09:00-10:50 - Signals and Systems. Tutorial, Behrouz Maham, Room #6
+	11:00-12:50 - 
+	14:00-15:50 - Sensors and Actuators. Tutorial, Nazim Mir-Nasiri, Room #6
+	16:00-17:50 - Sensors and Actuators. Lab, Nazim Mir-Nasiri, Room #4
+Thursday: 
+	09:00-10:50 - Signals and Systems, Behrouz Maham, Room #6
+	11:00-12:50 - Microelectronic Devices and Circuits, Alex James, Room #5
+	14:00-15:50 - Electronic Engineering Design Principles, Refik Kizilirmak, Room #6
+	16:00-17:50 - 
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - Engineering Mathematics III. Lab, Desmond Adair, Room #9
+	14:00-15:50 - Electronic Engineering Design Principles. Lab, Refik Kizilirmak, Room #7
+	16:00-17:50 - Microelectronic Devices and Circuits. Lab, Alex James, Room #7
+
+Year: 2,Group: 5
+Monday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - Structural Analysis I.Tutorial, Shazim Memon, Room #6
+	16:00-17:50 - 
+Tuesday: 
+	09:00-10:50 - Structural Analysis I.CompLab, Shazim Memon, Room #6
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - Civil Engineering CAD.Tutorial, Deuckhang Lee, Room #6
+Wednesday: 
+	09:00-10:50 - Surveying, Shazim Memon, Room #7
+	11:00-12:50 - Civil Engineering CAD.CompLab, Deuckhang Lee, Room #7
+	14:00-15:50 - 
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - Surveying.CompLab, Shazim Memon, Room #7
+	11:00-12:50 - 
+	14:00-15:50 - Engineering Mathematics III, Maxim Lu, Room #7
+	16:00-17:50 - Structural Analysis I, Shazim Memon, Room #8
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - Civil Engineering CAD, Deuckhang Lee, Room #10
+	14:00-15:50 - Engineering Mathematics III. Lab, Desmond Adair, Room #8
+	16:00-17:50 - Surveying.Lab, Shazim Memon, Room #8
+
+Year: 2,Group: 6
+Monday: 
+	09:00-10:50 - Structural Analysis I.Tutorial, Shazim Memon, Room #8
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - Structural Analysis I, Shazim Memon, Room #8
+Tuesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Civil Engineering CAD, Deuckhang Lee, Room #9
+	14:00-15:50 - Structural Analysis I.CompLab, Shazim Memon, Room #8
+	16:00-17:50 - Surveying.CompLab, Shazim Memon, Room #7
+Wednesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Surveying.Lab, Shazim Memon, Room #8
+	14:00-15:50 - Engineering Mathematics III, Desmond Adair, Room #7
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - Engineering Mathematics III. Lab, Desmond Adair, Room #8
+	11:00-12:50 - 
+	14:00-15:50 - Surveying, Shazim Memon, Room #8
+	16:00-17:50 - Civil Engineering CAD.CompLab, Deuckhang Lee, Room #9
+Friday: 
+	09:00-10:50 - Civil Engineering CAD.Tutorial, Deuckhang Lee, Room #5
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+
+Year: 3,Group: 1
+Monday: 
+	09:00-10:50 - Transport Phenomena II. Tutorial, Sayara Saliyeva, Room #9
+	11:00-12:50 - Chemical Engineering Thermodynamics. Tutorial, Dhawal Shah, Room #6
+	14:00-15:50 - Research Practice, Jorge Ona Ruales, Room #7
+	16:00-17:50 - 
+Tuesday: 
+	09:00-10:50 - Separation Processes I. CompLab, Vasileios Inglezakis, Room #7
+	11:00-12:50 - Chemical Engineering Thermodynamics, Dhawal Shah, Room #10
+	14:00-15:50 - 
+	16:00-17:50 - Separation Processes I, Vasileios Inglezakis, Room #8
+Wednesday: 
+	09:00-10:50 - Transport Phenomena II, Sayara Saliyeva, Room #8
+	11:00-12:50 - Separation Processes I.Tutorial, Vasileios Inglezakis, Room #9
+	14:00-15:50 - Separation Processes I. Lab, Vasileios Inglezakis, Room #8
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - Research Practice. Tutorial, Jorge Ona Ruales, Room #10
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - Transport Phenomena II. CompLab, Sayara Saliyeva, Room #9
+	16:00-17:50 - 
+
+Year: 3,Group: 2
+Monday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+Tuesday: 
+	09:00-10:50 - Machine Design. Tutorial, Christos Spitas, Room #8
+	11:00-12:50 - Heat Transfer. Tutorial, Maxim Lu, Room #11
+	14:00-15:50 - 
+	16:00-17:50 - 
+Wednesday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - Machine Design. Lab, Christos Spitas, Room #9
+	16:00-17:50 - Heat Transfer. Lab, Maxim Lu, Room #5
+Thursday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - Advanced Control Systems. Lab, Md Ali, Room #11
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - Heat Transfer, Maxim Lu, Room #11
+	14:00-15:50 - Advanced Control Systems, Md Ali, Room #10
+	16:00-17:50 - Machine Design, Christos Spitas, Room #9
+
+Year: 3,Group: 3
+Monday: 
+	09:00-10:50 - Power Electronics. Tutorial, Alexander Ruderman, Room #10
+	11:00-12:50 - Digital Integrated Circuits Design. Tutorial, Alex James, Room #7
+	14:00-15:50 - 
+	16:00-17:50 - 
+Tuesday: 
+	09:00-10:50 - 
+	11:00-12:50 - Antennas ans Propagation. Lab, Carlo Molardi, Room #12
+	14:00-15:50 - Electromagnetics, Daniele Tosi, Room #9
+	16:00-17:50 - 
+Wednesday: 
+	09:00-10:50 - Antennas ans Propagation. Tutorial, Carlo Molardi, Room #9
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+Thursday: 
+	09:00-10:50 - Digital Integrated Circuits Design, Alex James, Room #9
+	11:00-12:50 - Antennas ans Propagation, Carlo Molardi, Room #6
+	14:00-15:50 - Electromagnetics. CompLab, Daniele Tosi, Room #9
+	16:00-17:50 - Power Electronics, Alexander Ruderman, Room #12
+Friday: 
+	09:00-10:50 - Electromagnetics.Tutorial, Daniele Tosi, Room #6
+	11:00-12:50 - Power Electronics. Lab, Alexander Ruderman, Room #12
+	14:00-15:50 - 
+	16:00-17:50 - Digital Integrated Circuits Design. Lab, Alex James, Room #10
+
+Year: 3,Group: 4
+Monday: 
+	09:00-10:50 - Civil Engineering Materials, Chang Shon, Room #11
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+Tuesday: 
+	09:00-10:50 - Engineering Geology and Rock Mechanics. Tutorial, Minh Nguyen, Room #9
+	11:00-12:50 - Structural Design - Concrete. CompLab, Dichuan Zhang, Room #13
+	14:00-15:50 - Structural Design - Concrete. Lab, Dichuan Zhang, Room #10
+	16:00-17:50 - Engineering Geology and Rock Mechanics. Lab, Minh Nguyen, Room #9
+Wednesday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - Structural Design - Concrete. Tutorial, Dichuan Zhang, Room #10
+	16:00-17:50 - Structural Design - Concrete, Dichuan Zhang, Room #6
+Thursday: 
+	09:00-10:50 - Engineering Geology and Rock Mechanics, Minh Nguyen, Room #10
+	11:00-12:50 - Civil Engineering Materials. Tutorial, Chang Shon, Room #7
+	14:00-15:50 - 
+	16:00-17:50 - 
+Friday: 
+	09:00-10:50 - Civil Engineering Materials. Lab, Chang Shon, Room #7
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - 
+
+Year: 4,Group: 1
+Monday: 
+	09:00-10:50 - Computational Methods in Chemical Engineering II, Boris Golman, Room #12
+	11:00-12:50 - Multi-Phase Flows. Tutorial, Sergey Spotar, Room #8
+	14:00-15:50 - Computational Methods in Chemical Engineering II. CompLab, Boris Golman, Room #8
+	16:00-17:50 - Multi-Phase Flows, Sergey Spotar, Room #9
+Tuesday: 
+	09:00-10:50 - Chemical Reaction Engineering, Stavros Poulopoulos, Room #10
+	11:00-12:50 - 
+	14:00-15:50 - 
+	16:00-17:50 - Chemical Reaction Engineering. CompLab, Stavros Poulopoulos, Room #10
+Wednesday: 
+	09:00-10:50 - Chemical Reaction Engineering. Lab, Stavros Poulopoulos, Room #10
+	11:00-12:50 - Computational Methods in Chemical Engineering II. Tutorial, Boris Golman, Room #10
+	14:00-15:50 - 
+	16:00-17:50 - Project Management. Tutorial, Serik Tokbolat, Room #7
+Thursday: 
+	09:00-10:50 - Multi-Phase Flows. CompLab, Sergey Spotar, Room #11
+	11:00-12:50 - Advanced Process Simulation, Torkmahalleh Amouei, Room #8
+	14:00-15:50 - 
+	16:00-17:50 - 
+Friday: 
+	09:00-10:50 - Project Management, Serik Tokbolat, Room #8
+	11:00-12:50 - Capstone Project I. Lab, Moulay-Rachid Babaa, Room #13
+	14:00-15:50 - Advanced Process Simulation. CompLab, Torkmahalleh Amouei, Room #11
+	16:00-17:50 - Capstone Project I. CompLab, Moulay-Rachid Babaa, Room #11
+
+Year: 4,Group: 2
+Monday: 
+	09:00-10:50 - Computer Edit Geometric Design, Konstantinos Kostas, Room #13
+	11:00-12:50 - Vehicle Propulsion Systems. Lab, Desmond Adair , Room #9
+	14:00-15:50 - Project Management, Serik Tokbolat, Room #9
+	16:00-17:50 - Vehicle Propulsion Systems, Desmond Adair , Room #10
+Tuesday: 
+	09:00-10:50 - Machine Dynamics II. Tutorial, Didier Talamona, Room #11
+	11:00-12:50 - Machine Dynamics II, Didier Talamona, Room #14
+	14:00-15:50 - Capstone Project I, Christos Spitas, Room #11
+	16:00-17:50 - Project Management. Tutorial, Serik Tokbolat, Room #11
+Wednesday: 
+	09:00-10:50 - Feasibility Analysis of Clean Energy Technologies, Luis Rojas, Room #11
+	11:00-12:50 - 
+	14:00-15:50 - Oscillation of Mechanical Systems, Serik Khairaliyev, Room #11
+	16:00-17:50 - Aerodynamics. Tutorial, Yong Zhao, Room #8
+Thursday: 
+	09:00-10:50 - Vehicle Propulsion Systems. Tutorial, Desmond Adair , Room #12
+	11:00-12:50 - Heating, Ventilating, and Air Conditioning, Soo Teh , Room #9
+	14:00-15:50 - Heating, Ventilating, and Air Conditioning. Tutorial, Soo Teh , Room #10
+	16:00-17:50 - Oscillation of Mechanical Systems. Tutorial, Serik Khairaliyev, Room #13
+Friday: 
+	09:00-10:50 - Capstone Project I. CompLab, Christos Spitas, Room #9
+	11:00-12:50 - Machine Dynamics II. Lab, Didier Talamona, Room #14
+	14:00-15:50 - Feasibility Analysis of Clean Energy Technologies. CompLab, Luis Rojas, Room #12
+	16:00-17:50 - Aerodynamics, Yong Zhao, Room #12
+
+Year: 4,Group: 3
+Monday: 
+	09:00-10:50 - RF and Microwave Circuit Design. Lab, Grant Ellis, Room #14
+	11:00-12:50 - RF and Microwave Circuit Design, Grant Ellis, Room #10
+	14:00-15:50 - Power Transmition and Distribution Plants. Tutorial, Svyatoslav Nezhivenko, Room #10
+	16:00-17:50 - Mobile Communications, Refik Kizilirmak, Room #11
+Tuesday: 
+	09:00-10:50 - High voltage Enigineering. Tutorial, Mehdi Bagheri, Room #12
+	11:00-12:50 - Digital Communications. CompLab, Theodoros Tsiftsis, Room #15
+	14:00-15:50 - Capstone Project I, Alex James, Room #12
+	16:00-17:50 - RF and Microwave Circuit Design. Tutorial, Grant Ellis, Room #12
+Wednesday: 
+	09:00-10:50 - High voltage Enigineering. Lab, Mehdi Bagheri, Room #12
+	11:00-12:50 - Project Management, Serik Tokbolat, Room #11
+	14:00-15:50 - Power Transmition and Distribution Plants. Lab, Svyatoslav Nezhivenko, Room #12
+	16:00-17:50 - Power Transmition and Distribution Plants, Svyatoslav Nezhivenko, Room #9
+Thursday: 
+	09:00-10:50 - Power Systems Protection. Lab, Hema Satya Venkata Sivanand Kumar Nunna, Room #13
+	11:00-12:50 - Power Systems Protection. Tutorial, Hema Satya Venkata Sivanand Kumar Nunna, Room #10
+	14:00-15:50 - Digital Communications, Theodoros Tsiftsis, Room #11
+	16:00-17:50 - Power Systems Protection, Hema Satya Venkata Sivanand Kumar Nunna, Room #14
+Friday: 
+	09:00-10:50 - High voltage Enigineering, Mehdi Bagheri, Room #10
+	11:00-12:50 - Capstone Project I. Lab, Alex James, Room #15
+	14:00-15:50 - Mobile Communications. Tutorial, Refik Kizilirmak, Room #13
+	16:00-17:50 - Project Management. Tutorial, Serik Tokbolat, Room #13
+
+Year: 4,Group: 4
+Monday: 
+	09:00-10:50 - Capstone Project I. Lab, Minh Nguyen, Room #15
+	11:00-12:50 - Environmental Engineering. Tutorial, Dina Kaskina, Room #11
+	14:00-15:50 - 
+	16:00-17:50 - Construction Technologies and Processes, Hau Leung, Room #12
+Tuesday: 
+	09:00-10:50 - Environmental Systems. Tutorial, Yelyzaveta Arkhangelsky, Room #13
+	11:00-12:50 - 
+	14:00-15:50 - Environmental Engineering, Dina Kaskina, Room #13
+	16:00-17:50 - Project Management. Tutorial, Md Hossain, Room #13
+Wednesday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - Construction Technologies and Processes. Tutorial, Hau Leung, Room #13
+	16:00-17:50 - Highway Engineering. Tutorial, Chang Shon, Room #10
+Thursday: 
+	09:00-10:50 - Highway Engineering. Lab, Chang Shon, Room #14
+	11:00-12:50 - Environmental Systems, Yelyzaveta Arkhangelsky, Room #11
+	14:00-15:50 - Project Management, Serik Tokbolat, Room #12
+	16:00-17:50 - 
+Friday: 
+	09:00-10:50 - 
+	11:00-12:50 - 
+	14:00-15:50 - Highway Engineering, Chang Shon, Room #14
+	16:00-17:50 - Capstone Project I. CompLab, Minh Nguyen, Room #14

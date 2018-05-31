@@ -1,0 +1,15 @@
+The timetable for: Year3
+The name of the : Y3Mech
+                                        Monday                            Tuesday                          Wednesday                           Thursday                             Friday
+09.00-09.50              Sensors|Man Venue: R4                 Math|Ben Venue: R9              Sensors|Man Venue: R9                                  -                  Mech|He Venue: R9
+10.00-10.50              ChemEng|qwe Venue: R6           EngMath3|Alima Venue: R6             Geology|Aria Venue: R4              ChemEng|qwe Venue: R9                                  -
+11.00-11.50                  Math|Me Venue: R6         CMaterials|Chang Venue: R5                                  -                                  -                                  -
+12.00-12.50                 CAD|Bart Venue: R5                  H&S|Pen Venue: R6         EngMath3|Desmond Venue: R5          Surveying|Anton Venue: R5          Materials|Woman Venue: R4
+14.00-14.50                 CAD|Bart Venue: R4          CMaterials|Song Venue: R9                 Proga|He Venue: R6              ChemEng|asd Venue: R5            Struct|Shazam Venue: R9
+15.00-15.50                 Mech|Are Venue: R6                  Mech|We Venue: R9             Geology|Aria Venue: R6                                  -                                  -
+16.00-16.50         EngMath3|Desmond Venue: R4                                  -                                  -                                  -           ProjectM|Tomas Venue: R9
+17.00-17.50                                  -           Materials|Asma Venue: R5          Surveying|Anton Venue: R6         Surveying|Shazam Venue: R4                 H&S|Sand Venue: R9
+
+
+
+

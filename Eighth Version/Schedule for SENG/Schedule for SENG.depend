@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512299872 source:d:\c++\for engineers\eng project\sixth version\schedule for seng\schedule for seng.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+

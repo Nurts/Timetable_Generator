@@ -1,0 +1,14 @@
+Math : Vaska, Ben - Year 1, Year 2, Year 3;
+Proga : Vipin, Aresh - Year 2, Year 4;
+Materials : Asma Woman - Year 3,Year 1;
+Mech : Tolik - Year 3, Year 1;
+H&S : Ming Sand - Year 1, Year 2;
+Sensors : Nazim- Year 3, Year 2;
+EngMath3 : Desmond, Maxim, Alima - Year 2, Year 3;
+ProjectM : Serik, Ferhat - Year 1, Year 4;
+Surveying : Shazam - Year 1, Year 3;
+CAD : Saule - Year 3;
+Struct : Shazam - Year 2;
+CMaterials : Chang - Year 2, Year 1;
+Geology : Minh - Year 1, Year 3;
+ChemEng : Dichuan - Year 2, Year;

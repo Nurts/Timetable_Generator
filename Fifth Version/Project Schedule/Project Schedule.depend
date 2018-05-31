@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511606037 source:d:\c++\for engineers\eng project\fifth version\project schedule\project schedule.cpp
+	"timetable.h"
+	<iostream>
+
+1511605714 d:\c++\for engineers\eng project\fifth version\project schedule\timetable.h
+	<iostream>
+
+1512201863 source:d:\c++\for engineers\eng project\fifth version\project schedule\timetable.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"timetable.h"
+

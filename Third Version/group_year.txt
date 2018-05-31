@@ -1,0 +1,7 @@
+60 Y1Chem : Year 1;
+120 Y2Elec: Year 2;
+100 Y3Mech: Year 3;
+80 Y1Civil: Year 1;
+80 Y1Mech: Year 1;
+70 Y4Elec: Year 4;
+

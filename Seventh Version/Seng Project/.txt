@@ -1,0 +1,31 @@
+The time table for group Y4_M_G2
+
+Monday
+9 AM - 11 AM: EME_451_Capstone_project_1_Tutorial (Talgat_Urtambayev) in 3.143
+11 AM - 1 PM:
+ 2 PM - 4 PM:
+ 4 PM - 6 PM: BENG_405_Project_Management_Lecture (Md_Hossain) in 3.132
+
+Tuesday
+9 AM - 11 AM: EME_451_Capstone_project_1_Lecture (Christos_Spitas) in 6.427
+11 AM - 1 PM: EME_456_Feasibility_Analysis_of_Clean_Energy_Technologies_Tutorial (Ulanbe_Auyeskhan) in 3.143
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Wednesday
+9 AM - 11 AM: EME_412_Heating_Ventilating_and_Air_Conditioning_Lecture (Soo_Teh) in 7.322
+11 AM - 1 PM: BENG_405_Project_Management_Tutorial (Serik_Tokbolat) in 3.303
+ 2 PM - 4 PM:
+ 4 PM - 6 PM:
+
+Thursday
+9 AM - 11 AM: EME_412_Heating_Ventilating_and_Air_Conditioning_Tutorial (Aigerim_Mashekova) in 3.143
+11 AM - 1 PM:
+ 2 PM - 4 PM: EME_413_Computer_Aided_Geometric_Design_Tutorial (Konstantinos_Kostas) in 3.143
+ 4 PM - 6 PM:
+
+Friday
+9 AM - 11 AM: EME_413_Computer_Aided_Geometric_Design_Lecture (Konstantinos_Kostas) in 7.322
+11 AM - 1 PM:
+ 2 PM - 4 PM: EME_456_Feasibility_Analysis_of_Clean_Energy_Technologies_Lecture (Luis_Rojas) in 6.307
+ 4 PM - 6 PM:

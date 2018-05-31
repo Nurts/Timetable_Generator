@@ -1,0 +1,6 @@
+60 Y1Chem
+100 Y2Elec
+40 Y3Mech
+60 Y1Civil
+80 Y1Mech
+70 Y4Elec
